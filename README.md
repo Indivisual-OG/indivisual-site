@@ -17,7 +17,10 @@ a text file and use drag-and-drop can maintain this.
 indivisual-site/
 ├── index.html              ← homepage (gallery grid)
 ├── art.html                ← template for a single artwork's page
-├── CNAME                   ← used only if you deploy via GitHub Pages
+├── CNAME                   ← tells GitHub Pages this site is indivisual.art
+├── .github/workflows/
+│   └── deploy.yml          ← auto-publishes to GitHub Pages on every push
+├── .gitignore / .gitattributes  ← housekeeping, no need to touch
 ├── assets/
 │   ├── css/style.css       ← all styling
 │   ├── js/
@@ -140,26 +143,63 @@ the domain at it. Two easy, free options:
 
 ### Option B — GitHub Pages (best if you're open to using Git)
 
-1. Create a free GitHub account and a new repository, e.g. `indivisual-site`.
-2. Push this folder's contents to that repository (the included `CNAME`
-   file already contains `indivisual.art`, which is what GitHub Pages needs).
-3. In the repo, go to **Settings → Pages**, set the source branch (usually
-   `main`) and folder (`/root`).
-4. At your domain registrar, add these DNS records for the apex domain:
+This repo is already fully set up for this — it's a git repository with a
+`CNAME` file (pre-filled with `indivisual.art`) and a GitHub Actions workflow
+at `.github/workflows/deploy.yml` that automatically builds and publishes
+the site to Pages on every push to `main`. You just need to create the
+GitHub repo and push to it once.
+
+**One-time setup:**
+
+1. Create a free GitHub account if you don't have one.
+2. Create a new **empty** repository (no README/license) at
+   [github.com/new](https://github.com/new), e.g. named `indivisual-site`.
+   It can be public or private — GitHub Pages works with either on a free
+   account.
+3. From inside this project folder, run:
+   ```bash
+   git remote add origin https://github.com/<your-username>/indivisual-site.git
+   git push -u origin main
+   ```
+   (This folder is already initialized as a git repo with everything
+   committed, so this just connects it to GitHub and uploads it.)
+4. On GitHub, go to your repo's **Settings → Pages**, and under "Build and
+   deployment → Source" choose **GitHub Actions** (not "Deploy from a
+   branch"). The workflow will run automatically after your push and
+   publish the site — check the **Actions** tab to watch it deploy the
+   first time (takes about a minute).
+5. Still in **Settings → Pages**, under "Custom domain" enter
+   `indivisual.art` and save (this reads from/updates the `CNAME` file).
+6. At your domain registrar's DNS settings, add these records for the apex
+   domain:
    ```
    A     @     185.199.108.153
    A     @     185.199.109.153
    A     @     185.199.110.153
    A     @     185.199.111.153
    ```
-   and, if you want `www.indivisual.art` to also work:
+   and, if you also want `www.indivisual.art` to work:
    ```
-   CNAME www   <your-github-username>.github.io
+   CNAME www   <your-username>.github.io
    ```
-5. Back in GitHub's Pages settings, enter `indivisual.art` as the custom
-   domain and enable "Enforce HTTPS" once available.
-6. **To update content later:** edit files locally, `git commit`, `git push`
-   — the live site updates automatically within a minute or two.
+   DNS changes can take anywhere from a few minutes to a few hours to take
+   effect.
+7. Back in **Settings → Pages**, tick **Enforce HTTPS** once it becomes
+   available (GitHub provisions a free certificate automatically once DNS
+   is verified).
+
+**From then on, updating the site is just:**
+
+```bash
+git add -A
+git commit -m "Add new piece: <title>"
+git push
+```
+
+The Actions workflow re-runs automatically and the live site updates within
+about a minute — no manual redeploying, no dashboard, no dragging folders.
+You can watch each deploy under the repo's **Actions** tab, and every past
+version of the site is preserved in the git history.
 
 *(Vercel works essentially the same way as Netlify, if you prefer it.)*
 
