@@ -35,7 +35,7 @@
  */
 
 const ARTWORKS = [
-  /*
+  
   {
     slug: "AIPrompt_Art",
     title: "AIPrompt Art",
@@ -53,7 +53,7 @@ const ARTWORKS = [
       { src: "art/AIPrompt_Art/process/04.jpg", caption: "xx." }
     ]
   },
-  */
+  
   {
     slug: "AngerOut",
     title: "Anger Out",
