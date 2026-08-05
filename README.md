@@ -85,6 +85,12 @@ own.
    }
    ```
 
+   > **Note:** as your gallery grows, consider hosting images on Cloudinary
+   > instead of committing them to this repo, to keep it small — see
+   > section 5 below. The `cover`/`thumb`/`src` fields work exactly the same
+   > either way; they just become full `https://...` URLs instead of local
+   > paths, e.g. `cover: "https://res.cloudinary.com/your-cloud/image/upload/f_auto,q_auto/blue-hour-portrait/cover.jpg"`.
+
 5. **Save, then upload/deploy** (see below). That's it — the homepage grid,
    filters, and the new artwork's page are generated automatically from this
    one entry. No other files need to change.
@@ -212,7 +218,80 @@ version of the site is preserved in the git history.
 
 ---
 
-## 5. Notes, tips & optional extras
+## 5. Keeping the git repo small: hosting images on Cloudinary
+
+Committing every JPG straight into this repo works fine at first, but GitHub
+recommends repos stay under ~1GB and starts warning/blocking well before
+that if a lot of high-res art (plus all their process shots) piles up. The
+fix: host the images somewhere else, and just point `data.js` at the URLs.
+**No code changes are needed for this** — every image field in `data.js`
+(`cover`, `thumb`, `process[].src`) is used as a plain `<img src="...">`, so
+it doesn't matter whether that's a local path or a full external URL.
+
+[Cloudinary](https://cloudinary.com) is a good fit: it has a generous free
+tier (25GB storage + 25GB bandwidth/month), a simple drag-and-drop web
+dashboard (no command line needed), and it can automatically optimize/resize
+images on the fly via the URL itself.
+
+**One-time setup:**
+
+1. Create a free account at [cloudinary.com](https://cloudinary.com).
+2. In the Media Library, create a folder per artwork to keep things tidy,
+   matching your `art/<slug>/` naming, e.g. a folder named
+   `blue-hour-portrait`.
+3. Drag and drop `cover.jpg`, `thumb.jpg`, and the `process/*.jpg` images
+   for that piece into the folder.
+
+**Getting the URL for `data.js`:**
+
+1. Click any uploaded image in the Media Library and copy its URL — it'll
+   look like:
+   ```
+   https://res.cloudinary.com/<your-cloud-name>/image/upload/v1699999999/blue-hour-portrait/cover.jpg
+   ```
+2. Optional but recommended: insert `f_auto,q_auto` right after `/upload/`
+   to let Cloudinary automatically serve the best format/compression for
+   each visitor's browser:
+   ```
+   https://res.cloudinary.com/<your-cloud-name>/image/upload/f_auto,q_auto/blue-hour-portrait/cover.jpg
+   ```
+   You can also resize on the fly by adding e.g. `w_1600` (max width 1600px)
+   into that same comma-separated list — handy for `thumb` to keep the
+   gallery grid fast: `f_auto,q_auto,w_900`.
+3. Paste the resulting URL directly into the matching field:
+
+   ```js
+   {
+     slug: "blue-hour-portrait",
+     title: "Blue Hour Portrait",
+     date: "2026-08-01",
+     medium: "Digital painting",
+     tags: ["digital", "portrait"],
+     description: "A short paragraph about the piece.",
+     cover: "https://res.cloudinary.com/your-cloud/image/upload/f_auto,q_auto/blue-hour-portrait/cover.jpg",
+     thumb: "https://res.cloudinary.com/your-cloud/image/upload/f_auto,q_auto,w_900/blue-hour-portrait/thumb.jpg",
+     process: [
+       { src: "https://res.cloudinary.com/your-cloud/image/upload/f_auto,q_auto/blue-hour-portrait/process/01.jpg", caption: "Initial sketch." },
+       { src: "https://res.cloudinary.com/your-cloud/image/upload/f_auto,q_auto/blue-hour-portrait/process/02.jpg", caption: "Color blocking." }
+     ]
+   }
+   ```
+
+4. Commit and push `data.js` as usual — since there are no image files to
+   add, this commit stays tiny no matter how many pieces you add.
+
+**Mixing both approaches is totally fine** — e.g. keep the two sample
+pieces as local files, and use Cloudinary URLs for everything new. Nothing
+elsewhere in the site needs to know or care which each artwork uses.
+
+> If you'd rather not create folders manually in the dashboard for every
+> single piece, you can also just drop everything into one Cloudinary
+> folder and rely on distinct filenames (e.g. `blue-hour-portrait-cover.jpg`)
+> — whichever is easier for your workflow.
+
+---
+
+## 6. Notes, tips & optional extras
 
 - **Image sizes:** Instagram compresses images a lot; if you have the
   original higher-res files from your drawing software, use those for
