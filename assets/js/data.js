@@ -68,7 +68,24 @@ const ARTWORKS = [
       { src: "art/sample-neon-forest/process/03.jpg", caption: "Blocking in color masses." },
       { src: "art/sample-neon-forest/process/04.jpg", caption: "Detail and texture pass." }
     ]
-  }
+  },
+  {
+    slug: "my new example",
+    title: "Trial",
+    date: "2026-08-12",
+    medium: "Acrylic ink and acrylic pens",
+    tags: ["test", "space", "color"],
+    description:
+      "Example Test case.",
+    cover: "art/example/cover.jpg",
+    thumb: "art/examplet/thumb.jpg",
+    process: [
+      { src: "art/example/process/01.jpg", caption: "Thumbnail sketch — blocking in the composition." },
+      { src: "art/example/process/02.jpg", caption: "Refining the linework." },
+      { src: "art/example/process/03.jpg", caption: "Laying down base colors." },
+      { src: "art/example/process/04.jpg", caption: "Adding lighting and atmosphere." }
+    ]
+  },
 
   /*
   ,{
