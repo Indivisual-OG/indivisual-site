@@ -44,8 +44,8 @@ const ARTWORKS = [
     medium: "Acrylic Pens, Watercolors, and Oil on Canvas",
     tags: ["Acrylic", "Pens", "Watercolors", "Oil", "Canvas", "completed"],
     description: "A piece of the series expressing confusion and hurt after being mistreated and ghosted by a Significant Other.",
-    cover: <img src="https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/20240622_141221_rk9nzg.jpg">,
-    thumb: <img src="https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/AngerOut/IMG_20240811_063333_496_zyflbi.jpg">,
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/20240622_141221_rk9nzg.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/AngerOut/IMG_20240811_063333_496_zyflbi.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240522_132515_kmg17w.jpg", caption: "Almost done." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240521_202004_yamdaz.jpg", caption: "Without focus yet." },
