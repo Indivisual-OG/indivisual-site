@@ -62,16 +62,16 @@ const ARTWORKS = [
     tags: ["Acrylic", "Pens", "Watercolors", "Oil", "Canvas", "completed"],
     description:
       "A pieces of the series expressing confusion and hurt after being mistreated and ghosted by a Significant Other.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910193/20240622_141221_rk9nzg.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910229/IMG_20240811_063333_496_zyflbi.heic",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/cover.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/AngerOut/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910191/20240522_132515_kmg17w.jpg", caption: "Almost done." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910189/20240521_202004_yamdaz.jpg", caption: "Without focus yet." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910187/20240225_191443_qdckfc.jpg", caption: "Original direction." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910196/20240622_141225_omyhr4.jpg", caption: "Hidden sides plain to see." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910202/20240622_141239_w3tudi.jpg", caption: "Other side." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910198/20240622_141233_t2ditq.jpg", caption: "Third side." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/v1785910204/20240622_141246_pjpsde.jpg", caption: "Fourth side." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/2.jpg", caption: "Almost done." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/3.jpg", caption: "Without focus yet." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/4.jpg", caption: "Original direction." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1a.jpg", caption: "Hidden sides plain to see." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1b.jpg", caption: "Other side." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1c.jpg", caption: "Third side." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1d.jpg", caption: "Fourth side." }
     ]
   },
   {
