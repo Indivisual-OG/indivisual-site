@@ -36,6 +36,27 @@
 
 const ARTWORKS = [
   
+  
+  {
+    slug: "AngerOut",
+    title: "Anger Out",
+    date: "2024-06-25",
+    medium: "Acrylic Pens, Watercolors, and Oil on Canvas",
+    tags: ["Acrylic", "Pens", "Watercolors", "Oil", "Canvas", "completed"],
+    description: "A piece of the series expressing confusion and hurt after being mistreated and ghosted by a Significant Other.",
+    cover: <img src="https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/20240622_141221_rk9nzg.jpg">,
+    thumb: <img src="https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/AngerOut/IMG_20240811_063333_496_zyflbi.jpg">,
+    process: [
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240522_132515_kmg17w.jpg", caption: "Almost done." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240521_202004_yamdaz.jpg", caption: "Without focus yet." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240225_191443_qdckfc.jpg", caption: "Original direction." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141225_omyhr4.jpg", caption: "Hidden sides plain to see." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141239_w3tudi.jpg", caption: "Other side." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141233_t2ditq.jpg", caption: "Third side." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141246_pjpsde.jpg", caption: "Fourth side." }
+    ]
+  },
+  /*
   {
     slug: "AIPrompt_Art",
     title: "AIPrompt Art",
@@ -53,27 +74,7 @@ const ARTWORKS = [
       { src: "art/AIPrompt_Art/process/04.jpg", caption: "xx." }
     ]
   },
-  
-  {
-    slug: "AngerOut",
-    title: "Anger Out",
-    date: "2024-06-25",
-    medium: "Acrylic Pens, Watercolors, and Oil on Canvas",
-    tags: ["Acrylic", "Pens", "Watercolors", "Oil", "Canvas", "completed"],
-    description:
-      "A pieces of the series expressing confusion and hurt after being mistreated and ghosted by a Significant Other.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/AngerOut/thumb.jpg",
-    process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/2.jpg", caption: "Almost done." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/3.jpg", caption: "Without focus yet." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/4.jpg", caption: "Original direction." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1a.jpg", caption: "Hidden sides plain to see." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1b.jpg", caption: "Other side." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1c.jpg", caption: "Third side." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/1d.jpg", caption: "Fourth side." }
-    ]
-  },
+  */
   {
     slug: "Aphex",
     title: "Aphex",
