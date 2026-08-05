@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>indivisual.art</title>
+  <meta name="description" content="Artwork detail and process gallery." />
+  <link rel="icon" href="assets/img/favicon.png" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html">indi<span>visual</span>.art</a>
+      <nav class="site-nav">
+        <a href="index.html">Gallery</a>
+        <a href="https://www.instagram.com/artbiyindivisual/" target="_blank" rel="noopener">Instagram</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="art-detail"></main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>&copy; <span id="year"></span> indivisual.art</span>
+      <span>Follow along on <a href="https://www.instagram.com/artbiyindivisual/" target="_blank" rel="noopener">Instagram</a></span>
+    </div>
+  </footer>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/lightbox.js"></script>
+  <script src="assets/js/art.js"></script>
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>

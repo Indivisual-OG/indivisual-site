@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>indivisual.art — artwork gallery</title>
+  <meta name="description" content="A gallery of original artwork by indivisual, including behind-the-scenes process shots for each piece." />
+
+  <!-- Open Graph / social preview -->
+  <meta property="og:title" content="indivisual.art" />
+  <meta property="og:description" content="A gallery of original artwork, with the process behind each piece." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="art/sample-cosmic-drift/cover.jpg" />
+
+  <link rel="icon" href="assets/img/favicon.png" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html">indi<span>visual</span>.art</a>
+      <nav class="site-nav">
+        <a href="index.html">Gallery</a>
+        <a href="https://www.instagram.com/artbiyindivisual/" target="_blank" rel="noopener">Instagram</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro wrap">
+      <h1>Artwork &amp; the process behind it</h1>
+      <p>Every piece below has its own page with the finished artwork plus a step-by-step look at how it was made — sketches, color studies, and work-in-progress shots.</p>
+    </section>
+
+    <div class="wrap">
+      <div class="filters" id="filters"></div>
+    </div>
+
+    <div class="gallery wrap" id="gallery"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>&copy; <span id="year"></span> indivisual.art</span>
+      <span>Follow along on <a href="https://www.instagram.com/artbiyindivisual/" target="_blank" rel="noopener">Instagram</a></span>
+    </div>
+  </footer>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/gallery.js"></script>
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>
