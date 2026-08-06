@@ -873,7 +873,7 @@ const ARTWORKS = [
   },
   {
     slug: "Meditations5_SZ",
-    title: "Meditations 5: Sebastian",
+    title: "Meditations 5: SZ",
     date: "2026-08-05",
     medium: "Acrylic Pens and MixedMedia on Canvas",
     tags: ["Acrylic", "Pens", "MixedMedia", "Canvas", "completed"],
