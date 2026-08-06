@@ -653,11 +653,13 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Idarwald/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/1.jpg", caption: "Amazing under UV light." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/7.jpg", caption: "Almost complete..naybe." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/6.jpg", caption: "On the way to filling the white spaces with magic." },   
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/5.jpg", caption: "Sunny pallette." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/4.jpg", caption: "Symmetries." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/3.jpg", caption: "Wide open directions this picture could take." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/2.jpg", caption: "Basic message of the picture as a guiding principle." }
     ]
   },
 /*
