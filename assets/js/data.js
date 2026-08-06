@@ -47,7 +47,7 @@ const ARTWORKS = [
     cover: "art/AngerOut/cover.jpg",
     thumb: "art/AngerOut/thumb.jpg",
     process: [
-      { src: "art/AngerOut/Process/02.jpg", caption: "Almost done." },
+      { src: "attps://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/2.jpg", caption: "Almost done." },
       { src: "art/AngerOut/Process/03.jpg", caption: "Without focus yet." },
       { src: "art/AngerOut/process/04.jpg", caption: "Original direction." },
       { src: "art/AngerOut/process/1a.jpg", caption: "Hidden sides plain to see." }
@@ -1133,8 +1133,6 @@ const ARTWORKS = [
       { src: "art/YourLife/process/03.jpg", caption: "xx." },
       { src: "art/YourLife/process/04.jpg", caption: "xx." }
   },
-
-  /*
   ,{
     slug: "another-example",
     title: "Another Example",
@@ -1149,5 +1147,4 @@ const ARTWORKS = [
       { src: "art/another-example/process/02.jpg", caption: "Second pass." }
     ]
   }
-  */
 ];
