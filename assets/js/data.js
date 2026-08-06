@@ -540,11 +540,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Fuechse+Pelikane/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/4.jpg", caption: "Quirky paper." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/3.jpg", caption: "Heavy marker use is experimental." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/2.jpg", caption: "Clear lines." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Process/1.jpg", caption: "Lets see where this goes.." }
     ]
   },
   {
@@ -859,9 +858,9 @@ const ARTWORKS = [
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MMeditations3_M/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MMeditations3_M/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." }
     ]
   },
   {
@@ -929,11 +928,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Meditations7_L/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/4.jpg", caption: "Completed quickly." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/3.jpg", caption: "Boldness in colours." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/2.jpg", caption: "Recently, I have been having way too much fun with dividers ;)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations7_L/Process/1.jpg", caption: "Starting from the middle." }
     ]
   },
   {
