@@ -12,7 +12,7 @@
  *    (a smaller/cropped copy of cover.jpg, ~900px wide, loads
  *    faster on the gallery page). If you skip this, cover.jpg
  *    will be used for the thumbnail too.
- * 4. Create a /process/ subfolder and put your work-in-progress
+ * 4. Create a /Process/ subfolder and put your work-in-progress
  *    screenshots/photos in it, named 01.jpg, 02.jpg, 03.jpg... in
  *    the order you want them displayed.
  * 5. Copy one of the objects below, paste it into the ARTWORKS
@@ -125,11 +125,12 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BeginAgain/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/6.jpg", caption: "Always in progress with each train ride. I enjoy the imprecision of the moving vehicle that is introduced to the draw strokes." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/5.jpg", caption: "Slowly evolving II." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/4.jpg", caption: "Slowly evolving I." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/3.jpg", caption: "How the process looks on the tablet." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/2.jpg", caption: "Early stages." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BeginAgain/Process/1.jpg", caption: "First strokes are crude." }
     ]
   },
   {
