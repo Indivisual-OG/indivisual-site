@@ -44,16 +44,16 @@ const ARTWORKS = [
     medium: "Acrylic Pens, Watercolors, and Oil on Canvas",
     tags: ["Acrylic", "Pens", "Watercolors", "Oil", "Canvas", "completed"],
     description: "A piece of the series expressing confusion and hurt after being mistreated and ghosted by a Significant Other.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/20240622_141221_rk9nzg.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/AngerOut/IMG_20240811_063333_496_zyflbi.jpg",
+    cover: "art/AngerOut/cover.jpg",
+    thumb: "art/AngerOut/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240522_132515_kmg17w.jpg", caption: "Almost done." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240521_202004_yamdaz.jpg", caption: "Without focus yet." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240225_191443_qdckfc.jpg", caption: "Original direction." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141225_omyhr4.jpg", caption: "Hidden sides plain to see." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141239_w3tudi.jpg", caption: "Other side." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141233_t2ditq.jpg", caption: "Third side." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/AngerOut/Process/20240622_141246_pjpsde.jpg", caption: "Fourth side." }
+      { src: "art/AngerOut/Process/02.jpg", caption: "Almost done." },
+      { src: "art/AngerOut/Process/03.jpg", caption: "Without focus yet." },
+      { src: "art/AngerOut/process/04.jpg", caption: "Original direction." },
+      { src: "art/AngerOut/process/1a.jpg", caption: "Hidden sides plain to see." }
+      { src: "art/AngerOut/process/1b.jpg", caption: "Other side." },
+      { src: "art/AngerOut/process/1c.jpg", caption: "Third side." },
+      { src: "art/AngerOut/process/1d.jpg", caption: "Fourth side." }
     ]
   },
   /*
