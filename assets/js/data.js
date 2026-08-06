@@ -495,11 +495,20 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/FemaleEnergy/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/1.jpg", caption: "Lorde contributing artwork as inspiration." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/2.jpg", caption: "The cover of the new Florence and the Machine Album (Everybody Screams) offered the inspirational art that had me start this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/3.jpg", caption: "My own AI art as inspiration to be overlaid over the two artists artwork." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/4.jpg", caption: "Finished piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/5.jpg", caption: "Symmetry in the combination of the contrubuting artworks." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/6.jpg", caption: "Sometimes, changing a piece in this major way requiresy some bravery." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/7.jpg", caption: "Foil overlayy helps with the design." },            
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/8.jpg", caption: "Secret tips for perfect images." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/9.jpg", caption: "Painted off the screen onto the foil..cheating? Naw..Method! :D." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/10.jpg", caption: "Underway to being amazing." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/10b.jpg", caption: "The cover art at the basis of this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/11.jpg", caption: "Pristine transfer, was almost hard to paint over." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/12.jpg", caption: "That skirt is an insane mystery of a three-domensional object to paint in 2D." },     
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Process/13.jpg", caption: "The first strokes." }
     ]
   },
   {
