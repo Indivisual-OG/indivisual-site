@@ -104,11 +104,14 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Banksyland_AbomiNation/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/6.jpg", caption: "Amazing under UV Lights." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/5b.jpg", caption: "UV light look is always a consideration." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/5.jpg", caption: "Nearing completion..or is it?." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/4.jpg", caption: "Collage pieces II." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/3.jpg", caption: "Collage pieces I." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/2.jpg", caption: "Early stages." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/1.jpg", caption: "Early stages." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Process/0.jpg", caption: "So it begins - with a stolen poster and some Burner art (from FTE)." }
     ]
   },
   {
@@ -158,11 +161,11 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Body/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/5.jpg", caption: "Almost perfect." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/4.jpg", caption: "Nearing completion..maybe?." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/3.jpg", caption: "Experimenting with mixtures." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/2a.jpg", caption: "Filling in paint." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Process/1.jpg", caption: "Naked fabric of a lingerie item I wore to my first Kink party." }
     ]
   },
   {
@@ -305,11 +308,12 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/CCC_NieSie/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/6.jpg", caption: "Endlessly incomplete, but already pretty shapely." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/5.jpg", caption: "Working out focus areas." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/4.jpg", caption: "Underway to be great & the idea arises to sell this as a silent auction piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/3.jpg", caption: "Taking good shape." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/2.jpg", caption: "Adding stickers and material collected at different Chaos events." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/CCC_NieSie/Process/1.jpg", caption: "Original poster found left hanging when clean-up of the 39C3 congress was already far advanced. I got lucky :)" }
     ]
   },
   {
