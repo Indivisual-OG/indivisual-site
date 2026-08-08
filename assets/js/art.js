@@ -42,7 +42,7 @@
         <div class="meta">${dateStr}${art.medium ? " · " + art.medium : ""}</div>
         <p class="description">${art.description || ""}</p>
         <div class="tags">${tags}</div>
-        <a class="instagram-link" href="https://www.instagram.com/artbiyindivisual/" target="_blank" rel="noopener">
+        <a class="instagram-link" href="https://www.instagram.com/artbyindivisual/" target="_blank" rel="noopener">
           View more on Instagram
         </a>
       </div>
