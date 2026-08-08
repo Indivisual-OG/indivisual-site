@@ -254,11 +254,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BurningMan_Blanket/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Process/1.jpg", caption: "A neat digital interface to create such cool images that can then be printed onto fabric (a blanket)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Blanket/Process/2.jpg", caption: "Original direction of the image, sporting Burning Man imagery." }
     ]
   },
   {
@@ -272,11 +269,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BurningMan_Sticker/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/2.jpg", caption: "The interface that allowed me to print my design onto a see-through sticker material." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/x.jpg", caption: "A neat design - which noone got :D Total Nerd-levels.. I loved it :D" }
     ]
   },
   {
@@ -290,11 +284,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BurnLocal/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Process/2.jpg", caption: "I managed to keep this quite logo-y and leave white spaces." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Process/1.jpg", caption: "I got inspired by graffitti-style images." }
     ]
   },
   {
@@ -321,17 +312,16 @@ const ARTWORKS = [
     title: "Chaos & Order",
     date: "2023-05-08",
     medium: "Acrylic Paint on Paper",
-    tags: ["Acrylic", "Pens", "Paper"],
+    tags: ["Acrylic", "Pens", "Paper", "completed", "gifted"],
     description:
       "I love looking at art from far away, normal distance, and up close and try to satisfy the details of each of those perspectives (like pinch-zooming into your pics on the phone).",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Chaos_Order/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/3.jpg", caption: "The intention was to have the pattern look like liquid had run through it, creating entropy/chaos from order." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/2a.jpg", caption: "A small piece, this was really fun toi draw and the first time I used different media (paint and pens, in this case)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/2.jpg", caption: "Once again, I could not leave white spaces :D" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Process/1.jpg", caption: "I like the clarity of the piece, despite so much going on." }
     ]
   },
   {
@@ -353,39 +343,20 @@ const ARTWORKS = [
     ]
   },
   {
-    slug: "Collage2_Random",
-    title: "Collage 2: Random",
-    date: "2022-08-01",
-    medium: "Collage, MixedMedia, and Acrylic Pens on Canvas",
-    tags: ["Collage", "MixedMedia", "Acrylic", "Pens", "Canvas", "completed"],
-    description:
-      "A collage that inspired my art journey, made from paper pieces collected over years, printed with things and advertising concepts that aim to make people happy, removed from the original product packaging.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Random/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Collage2_Random/thumb.jpg",
-    process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Random/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Random/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Random/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Random/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Random/Process/x.jpg", caption: "xx." }
-    ]
-  },
-  {
-    slug: "Collage3_Decommodify",
-    title: "Collage 3: Decommodify",
+    slug: "Collage2_Decommodify",
+    title: "Collage 2: Decommodify",
     date: "2023-12-19",
     medium: "Acrylic Pens, Collage, and MixedMedia on Canvas",
     tags: ["Collage", "MixedMedia", "Acrylic", "Pens", "Canvas", "completed", "gifted"],
     description:
-      "A collage and mixed media pieces about Decommodification and leaving Capitalism behind. Gifted to the amazing Elin.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Collage3_Decommodify/thumb.jpg",
+      "A collage and mixed media piece that inspired my art journey, made from paper pieces collected over years, printed with things and advertising concepts that aim to make people happy, removed from the original product packaging. Perfect for a statement about Decommodification and leaving Capitalism behind. Gifted to the amazing Elin.",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Cover.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Collage2_Decommodify/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/1.jpg", caption: "I collected the pieces for this collage for an insanely long time. THe topic was loose the intention of information to seemingly make people happy and smile when buying a product. THe black framing has become an integral part to each piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/2.jpg", caption: "The piece lacked aim and vision as I was making the collage, so the writing over the top was a much-needed bold move." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/3.jpg", caption: "Collages become more intricate the longer I work on them :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/4.jpg", caption: "Beginnings." }
     ]
   },
   {
@@ -652,7 +623,7 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Idarwald/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/1.jpg", caption: "Amazing under UV light." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/7.jpg", caption: "Almost complete..naybe." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/7.jpg", caption: "Almost complete..maybe." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/6.jpg", caption: "On the way to filling the white spaces with magic." },   
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/5.jpg", caption: "Sunny pallette." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Process/4.jpg", caption: "Symmetries." },
@@ -691,11 +662,13 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/LetGo/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/1.jpg", caption: "Intentionally gorgeous under UV light - which is one of the dimensions I paint with." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/2a.jpg", caption: "Different light brings out different qualities in the almost completed artwork." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/2b.jpg", caption: "I liked the depth the spiral created." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/4.jpg", caption: "The bit in the middle was a repurposed tattoo stenil." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/3.jpg", caption: "Bravely expanding the design." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/5.jpg", caption: "I would love to be able to stay with simplicity, but depth and complexity is more fun." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Process/6.jpg", caption: "Off to a good start." }
     ]
   },
   {
@@ -819,11 +792,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Meditations1_T+C/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Process/2.jpg", caption: "I did not take many progress pictures here because I was working on another piece as well, while still giving this my undivided attention in-between." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations1_T+C/Process/1.jpg", caption: "The basis was simple." }
     ]
   },
   {
@@ -855,11 +825,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Meditations3_M/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/4.jpg", caption: "I tend to continue with a piece until it trulz is perfect, and then leave it for a bit to see if something still needs to be changed." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/3.jpg", caption: "Underway for an intricate level of detail." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/2.jpg", caption: "I like filling in the white sapces." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations3_M/Process/1.jpg", caption: "First progress pic I took of this piece." }
     ]
   },
   {
@@ -909,11 +878,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Meditations6_H/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/4.jpg", caption: "This piece is not yet complete, because the connection loosened. Still, she inspired me enpugh, I started drawing her." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/3.jpg", caption: "This grew quirkily, with the shapes changing types of object (questionsmark to hear, for example)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/2.jpg", caption: "At this point is was also somehow a face." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations6_H/Process/1.jpg", caption: "Humble beginnings." }
     ]
   },
   {
