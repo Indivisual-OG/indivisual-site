@@ -549,17 +549,17 @@ const ARTWORKS = [
   },
 */
   {
-    slug: "GourdLamp",
+    slug: "Gourd_Lamp",
     title: "Gourd Lamp",
-    date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "tag"],
+    date: "2024-02-02",
+    medium: "A Gourd plant product hollowed out and painted with Acrylic Paints",
+    tags: ["Plant product", "Acrylic", "Pens", "completed"],
     description:
-      "Describe your piece.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/GourdLamp/thumb.jpg",
+      "A gourd, harvested in my friend.s garden in San Diego I hollowed out to keep only the hard outer shell. I then painted the outside with Acrylic Paints, and placed a stringlight inside.",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Gourd_Lamp/Cover.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Gourd_Lamp/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Gourd_Lamp/Process/1.jpg", caption: "xx." }
     ]
   },
   {
