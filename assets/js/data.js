@@ -343,7 +343,7 @@ const ARTWORKS = [
     ]
   },
   {
-    slug: "Collage3_Decommodify",
+    slug: "Collage2_Decommodify",
     title: "Collage 2 - Decommodify",
     date: "2023-12-19",
     medium: "Acrylic Pens, Collage, and MixedMedia on Canvas",
