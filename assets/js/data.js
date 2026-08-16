@@ -525,11 +525,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Furniture1_Vortex/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Process/1.jpg", caption: "xx." }
     ]
   },
 /*
@@ -563,11 +559,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/GourdLamp/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -581,11 +573,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Heart/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -599,11 +587,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Iceland/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -674,14 +658,11 @@ const ARTWORKS = [
     tags: ["Digital", "AI", "Lensa", "completed"],
     description:
       "Playing around with overlaying AI-created portraits (made with Lensa) with a visual interpretation of my current endeavor to learn to listen to my now opening heart - as opposed to always be guided by my mind.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover.jpg",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover2.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Lingua/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/2.jpg", caption: "xx." }
     ]
   },
   {
@@ -695,11 +676,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/LoveWhenYouCry/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LoveWhenYouCry/Process/4.jpg", caption: "xx." }
     ]
   },
   {
@@ -713,11 +693,11 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/LSD80/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Process/5.jpg", caption: "xx." }
     ]
   },
   {
@@ -731,11 +711,13 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Lyrics1_Peng/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics1_Peng/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -749,11 +731,18 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Lyrics2_Tool/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/9.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/10.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/11.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/12.jpg", caption: "xx." }
      ]
   },
 /*
@@ -802,11 +791,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations2_L+Y/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Meditations2_L+Y/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations2_L+Y/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations2_L+Y/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations2_L+Y/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations2_L+Y/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations2_L+Y/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations2_L+Y/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -837,11 +822,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Meditations4_Meg/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -907,11 +889,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations8_Dad/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Meditations8_Dad/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations8_Dad/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations8_Dad/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations8_Dad/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations8_Dad/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations8_Dad/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations8_Dad/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -925,11 +903,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/MuchnessInc/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Process/4.jpg", caption: "xx." }
     ]
   },
   {
@@ -943,11 +920,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/NathaliesLounge/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -961,11 +935,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NeonSpiro/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/NeonSpiro/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NeonSpiro/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NeonSpiro/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NeonSpiro/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NeonSpiro/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NeonSpiro/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NeonSpiro/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -979,11 +949,17 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Origami/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/5b.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/1b.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Process/1a.jpg", caption: "xx." }
     ]
   },
   {
@@ -997,11 +973,9 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Roots/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Process/3.jpg", caption: "xx." }
     ]
   },
   {
@@ -1053,11 +1027,15 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/SliceofParadise/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/9.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/2.jpg", caption: "xx." }
     ]
   },
 /*
@@ -1088,14 +1066,23 @@ const ARTWORKS = [
     tags: ["Acrylic", "Pens", "Canvas", "completed"],
     description:
       "In celebration of symmetry and biology, art in artificial structures, juice in round biology, and patience for process, this piece used tattoo stencil inspiration (art on my shoulders created by the prodigy and dear friend, @weltenwechsel_tattoos), honoring the further development of a theme represented in some of my art as well as a few tattoos on my body, always placed right/left of the midline: biological/artificial - magic/madness - body/spirit - matter/mind. I can see how this will go. I know the pieces fit.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Cover.jpg",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Cover2.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/TattooMagic/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/13.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/12.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/11.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/10.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/9.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/1a.jpg", caption: "xx." }
     ]
   },
   {
@@ -1109,33 +1096,46 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Treedom/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/1a.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/14jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/13.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/12.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/11.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/10.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/9.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/4.jpg", caption: "xx." }
     ]
   },
-  /*
   {
     slug: "Update",
     title: "Update",
     date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "tag"],
+    medium: "Acrylic Pens on Paper",
+    tags: ["Acrylic", "Pens", "Paper", "completed"],
     description:
-      "Describe your piece.",
+      "Inspired by a track from Puscifer.s album Existential Reckoning, this piece acknowledges that people need to withdraw and take time to work on themselves. In these times, they are not open to connect, and this is not an expression of the level of closeness to me - when I painted this, this was a new, surprising öesson to learn. That the person who triggered this was all kinds of imperfect in their relationship to me was something that I tried to not creep into my expression of the experience in this painting.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Update/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/9.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/4a.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/3.jpg", caption: "xx." },      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/x.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/1.jpg", caption: "xx." }
     ]
   },
-  */
   {
     slug: "Vegas",
     title: "Vegas",
@@ -1147,11 +1147,13 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Vegas/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Vegas/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -1165,11 +1167,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/YourLife/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/YourLife/Process/4.jpg", caption: "xx." }
     ]
   }
 ];
