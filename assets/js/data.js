@@ -343,20 +343,20 @@ const ARTWORKS = [
     ]
   },
   {
-    slug: "Collage2_Decommodify",
-    title: "Collage 2: Decommodify",
+    slug: "Collage3_Decommodify",
+    title: "Collage 2 - Decommodify",
     date: "2023-12-19",
     medium: "Acrylic Pens, Collage, and MixedMedia on Canvas",
     tags: ["Collage", "MixedMedia", "Acrylic", "Pens", "Canvas", "completed", "gifted"],
     description:
       "A collage and mixed media piece that inspired my art journey, made from paper pieces collected over years, printed with things and advertising concepts that aim to make people happy, removed from the original product packaging. Perfect for a statement about Decommodification and leaving Capitalism behind. Gifted to the amazing Elin.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Collage2_Decommodify/thumb.jpg",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Cover.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Collage3_Decommodify/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/1.jpg", caption: "I collected the pieces for this collage for an insanely long time. THe topic was loose the intention of information to seemingly make people happy and smile when buying a product. THe black framing has become an integral part to each piece." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/2.jpg", caption: "The piece lacked aim and vision as I was making the collage, so the writing over the top was a much-needed bold move." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/3.jpg", caption: "Collages become more intricate the longer I work on them :)" },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage2_Decommodify/Process/4.jpg", caption: "Beginnings." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/1.jpg", caption: "I collected the pieces for this collage for an insanely long time. THe topic was loose the intention of information to seemingly make people happy and smile when buying a product. THe black framing has become an integral part to each piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/2.jpg", caption: "The piece lacked aim and vision as I was making the collage, so the writing over the top was a much-needed bold move." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/3.jpg", caption: "Collages become more intricate the longer I work on them :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage3_Decommodify/Process/4.jpg", caption: "Beginnings." }
     ]
   },
   {
