@@ -419,11 +419,11 @@ const ARTWORKS = [
   {
     slug: "Eukel",
     title: "Eukel",
-    date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "tag"],
+    date: "2023-09-02",
+    medium: "Ink and Acrylic Pens on Paper",
+    tags: ["Ink", "Acrylic", "Pens", "Paper", "completed", "gifted"],
     description:
-      "Describe your piece.",
+      "Being bored among a few not so entertaining people at a home burn, I found some ink and some pens, and kinda doodled for one of the more articulate and intellectually interesting people at the event.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Eukel/thumb.jpg",
     process: [
@@ -528,15 +528,14 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture1_Vortex/Process/1.jpg", caption: "xx." }
     ]
   },
-/*
   {
     slug: "Furniture2",
-    title: "Furniture 2",
-    date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "tag"],
+    title: "Furniture 2 - Little Blue Cupboard",
+    date: "2026-01-02",
+    medium: "Acrylic Paints on Wood",
+    tags: ["Acrylic", "Paints", "Wood", "completed"],
     description:
-      "Describe your piece.",
+      "I found this little blue cupboard among some other furniture to be thrown away by the side of the road, didnt like the blue, but thought, it was a fun piece to try some more furniture painting on it. It is definitely not blue anymore now :D.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Furniture2/thumb.jpg",
     process: [
@@ -547,12 +546,11 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/x.jpg", caption: "xx." }
     ]
   },
-*/
   {
     slug: "Gourd_Lamp",
     title: "Gourd Lamp",
     date: "2024-02-02",
-    medium: "A Gourd plant product hollowed out and painted with Acrylic Paints",
+    medium: "A Gourd plant product - like a pumpkin, but inedible - hollowed out and painted with Acrylic Paints",
     tags: ["Plant product", "Acrylic", "Pens", "completed"],
     description:
       "A gourd, harvested in my friend.s garden in San Diego I hollowed out to keep only the hard outer shell. I then painted the outside with Acrylic Paints, and placed a stringlight inside.",
@@ -579,9 +577,9 @@ const ARTWORKS = [
   {
     slug: "Iceland",
     title: "Iceland",
-    date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "tag"],
+    date: "2026-02-2",
+    medium: "Acrylic pens and paints on canvas, inspired by AI-derived art",
+    tags: ["Acrylic", "Pens", "Paints", "Canvas", "AI", "abandoned/discontinued"],
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Cover.jpg",
@@ -652,7 +650,7 @@ const ARTWORKS = [
   },
   {
     slug: "Lingua",
-    title: "Lingua cordis - Lingua intellectus",
+    title: "Lingua Cordis - Lingua Intellectus",
     date: "2023-04-22",
     medium: "Digital Art created with Lensa App and Infinite Painter",
     tags: ["Digital", "AI", "Lensa", "completed"],
@@ -745,15 +743,14 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/12.jpg", caption: "xx." }
      ]
   },
-/*
   {
     slug: "Lyrics3_Puscifer",
-    title: "Lyrics 3: Puscifer",
-    date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "in progress"],
+    title: "Lyrics 3 - Puscifer: Bedlamite",
+    date: "2025-03-01",
+    medium: "Acrylic Pens and Paints on Paper",
+    tags: ["Acrylic", "Pens", "Paints", "Paper", "abandoned/discontinued"],
     description:
-      "Describe your piece.",
+      "This one is a nice example of the case where an idea of how to represent some idea does not work out. I love the track, but I could not transfer my emotions and impressions of it onto my art..maybe I will try again in the future.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics3_Puscifer/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Lyrics3_Puscifer/thumb.jpg",
     process: [
@@ -764,7 +761,6 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics3_Puscifer/Process/x.jpg", caption: "xx." }
      ]
   },
-*/
   {
     slug: "Meditations1_T+C",
     title: "Meditations 1: Trench & Cuddles",
@@ -942,8 +938,8 @@ const ARTWORKS = [
     slug: "Origami",
     title: "Origami",
     date: "2021-11-01",
-    medium: "Folded Paper and Glue, sometimes Paints",
-    tags: ["Paper", "Glue", "Paints", "completed", "ongoing when needed"],
+    medium: "Folded Paper and Glue, sometimes Acrylic Paints",
+    tags: ["Paper", "Glue", "Acrylic", "Paints", "completed", "ongoing when needed"],
     description:
       "Origami FLowers are nice excerside for the hand and make great little gifts. I get motivated off and on to ctreate some new ones.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Origami/Cover.jpg",
@@ -1090,7 +1086,7 @@ const ARTWORKS = [
     title: "Treedom",
     date: "2024-07-11",
     medium: "Acrylic Paint and Oil on Canvas",
-    tags: ["Oil", "Acrylic paint", "Canvas", "completed"],
+    tags: ["Oil", "Acrylic", "Paints", "Canvas", "completed"],
     description:
       "Wow..this has been a long time coming..I started this back in 2022: my second painting, my first in oil. Now it is finally completed, the unfinished image in a pile between other more advanced pieces had been calling me again this week. The original inspo was classical Starry Night, as well as my favority painting, CDF's Monk by the sea; plus a contemplation of the view out of my previous living room with the massive windows and moving door looking out over France on the 10th floor I liked to sit by, and the concept of the universe watching over things working out the way they should. Originally envisioned as the universe the person was gazing at, it turned into a tree with the person at its core and roots of things they carry along.. The tricky bit introducing the breaks and prolonbging the painting time was the use of oil paints (which in regular air will take 15 days to dry properly). This resulted in me losing interest for a while and moving on with something else a few times. The piece changed many times during its creation, but I'm very happy with it now.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Cover.jpg",
@@ -1100,7 +1096,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/2.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/3.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/1a.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/14jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/14.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/13.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/12.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Treedom/Process/11.jpg", caption: "xx." },
@@ -1131,7 +1127,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/5.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/4.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/4a.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/3.jpg", caption: "xx." },      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/x.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/3.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/2.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Update/Process/1.jpg", caption: "xx." }
     ]
