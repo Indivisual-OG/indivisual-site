@@ -143,11 +143,19 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BlissScramble/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/13.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/12.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/11.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/10.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/9.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -197,11 +205,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BoredSymmetry2_Deity/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry2_Deity/Process/2.jpg", caption: "xx." }
     ]
   },
 /*
@@ -223,7 +228,6 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." }
     ]
   },
-
   {
     slug: "BoredSymmetry4",
     title: "Bored Symmetry 4",
@@ -270,7 +274,7 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BurningMan_Sticker/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/2.jpg", caption: "The interface that allowed me to print my design onto a see-through sticker material." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/x.jpg", caption: "A neat design - which noone got :D Total Nerd-levels.. I loved it :D" }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurningMan_Sticker/Process/1.jpg", caption: "A neat design - which noone got :D Total Nerd-levels.. I loved it :D" }
     ]
   },
   {
@@ -335,11 +339,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage1_Pusheen/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Collage1_Pusheen/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage1_Pusheen/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage1_Pusheen/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage1_Pusheen/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage1_Pusheen/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage1_Pusheen/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Collage1_Pusheen/Process/1.jpg", caption: "xx." }
     ]
   },
   {
@@ -370,14 +370,14 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/ConfusionAge/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/2a.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Process/1.jpg", caption: "xx." }
     ]
   },
-  /*
+/*
   {
     slug: "EarlyWork",
     title: "Early Work",
@@ -396,7 +396,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/EarlyWork/Process/x.jpg", caption: "xx." }
     ]
   },
-  */
+*/
   {
     slug: "Elindentity",
     title: "Elindentity",
@@ -408,14 +408,14 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Elindentity/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/2a.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Elindentity/Process/1.jpg", caption: "xx." }
     ]
   },
-  /*
   {
     slug: "Eukel",
     title: "Eukel",
@@ -427,14 +427,12 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Eukel/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Eukel/Process/3.jpg", caption: "xx." }
     ]
   },
-
+/*
   {
     slug: "Exhibition_Kulti",
     title: "Exhibition im Kulti",
@@ -453,7 +451,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Exhibition_Kulti/Process/x.jpg", caption: "xx." }
     ]
   },
-  */
+*/
   {
     slug: "FemaleEnergy",
     title: "Female Energy",
@@ -461,7 +459,7 @@ const ARTWORKS = [
     medium: "Acrylic Pens, Collage, and Transfer using foil",
     tags: ["Acrylic", "Pens", "Collage", "Transfer", "completed"],
     description:
-      "This piece sought to capture my meditations on maturing my female energy, through music preference. It intends to process the changes and intense recent growth alongside and in connection with some significant personal female inspiration figures (Lorde and Florence represented as guides) in my life. Also it helps me work through the massive girlcrush I have on Florence as well as the extensive awe I feel for Florence and the Machine 's new album (Everybody Scream), ..Lastly, it aids in exploring what that actually is, female energy.:. raw, tender, connective? Yes, and..dark and light, and beautiful, or intentionally spikey, yet real. So far, I identified heavily with the the cool, quirky, always evolving style of Lorde, whose albums (her newest cover art included here, as well as in original) always seemed to mirror exactly what was going on in my life - all the way to her very passionate, sexy undertones on the new album (Virgin). Then, I met Florence Welch's pure magic, her explosive, still quirky, but very self-aware female energy bursting out of every one of her songs on the new album (Florence and the Machine's Everybody Scream, similarly included and provided in original). I felt myself overwhelmed with awe and the invitation to look at my own female energy - which has become overboarding, rich, voluptuous, attractive, enticing, deep, but still quirky. I want to blurt out the colors, celebrate mind and emotion, just as Florence and the image do.  A self-portrait generated by feeding Lensa images of me through the last year, with my expanding magic and mind shining through tied everything together for this piece.  So inspiring. Guess I too am unfurling, becoming my whole size :) Watch this space... Album art cover and art by Florence and the Machine and Lorde (Virgin).",
+      "This piece sought to capture my meditations on maturing my female energy, through music preference. It intends to process the changes and intense recent growth alongside and in connection with some significant personal female inspiration figures - Lorde and Florence represented as guides - in my life. Also it helps me work through the massive girlcrush I have on Florence as well as the extensive awe I feel for Florence and the Machine.s new album -Everybody Scream. Lastly, it aids in exploring what that actually is, female energy: raw, tender, connective? Yes, and..dark and light, and beautiful, or intentionally spikey, yet real. So far, I identified heavily with the the cool, quirky, always evolving style of Lorde, whose albums - her newest cover art included here, as well as in original- always seemed to mirror exactly what was going on in my life - all the way to her very passionate, sexy undertones on the new album, Virgin. Then, I met Florence Welch.s pure magic, her explosive, still quirky, but very self-aware female energy bursting out of every one of her songs on the new album - Florence and the Machine.s Everybody Scream, similarly included and provided in original. I felt myself overwhelmed with awe and the invitation to look at my own female energy - which has become overboarding, rich, voluptuous, attractive, enticing, deep, but still quirky. I want to blurt out the colors, celebrate mind and emotion, just as Florence and the image do.  A self-portrait generated by feeding Lensa images of me through the last year, with my expanding magic and mind shining through tied everything together for this piece.  So inspiring. Guess I too am unfurling, becoming my whole size :) Watch this space... Album art cover and art by Florence and the Machine and Lorde.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/FemaleEnergy/thumb.jpg",
     process: [
@@ -518,7 +516,7 @@ const ARTWORKS = [
   },
   {
     slug: "Furniture1_Vortex",
-    title: "Furniture 1: Vortex",
+    title: "Furniture 1 - Vortex",
     date: "2026-01-09",
     medium: "Acrylic Paints on Wood",
     tags: ["Acrylic", "Paints", "Wood", "completed"],
@@ -553,7 +551,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/x.jpg", caption: "xx." }
     ]
   },
-
+*/
   {
     slug: "GourdLamp",
     title: "Gourd Lamp",
@@ -572,7 +570,6 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/GourdLamp/Process/x.jpg", caption: "xx." }
     ]
   },
-*/
   {
     slug: "Heart",
     title: "Heart",
@@ -591,7 +588,6 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Heart/Process/x.jpg", caption: "xx." }
     ]
   },
-/*
   {
     slug: "Iceland",
     title: "Iceland",
@@ -610,7 +606,6 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Process/x.jpg", caption: "xx." }
     ]
   },
-*/
   {
     slug: "Idarwald",
     title: "Idarwald",
@@ -759,9 +754,9 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics2_Tool/Process/x.jpg", caption: "xx." }
-    ]
+     ]
   },
-  /*
+/*
   {
     slug: "Lyrics3_Puscifer",
     title: "Lyrics 3: Puscifer",
@@ -778,7 +773,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics3_Puscifer/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics3_Puscifer/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lyrics3_Puscifer/Process/x.jpg", caption: "xx." }
-    ]
+     ]
   },
 */
   {
@@ -1027,7 +1022,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Schplomi_Collab/Process/x.jpg", caption: "xx." }
     ]
   },
-  /*
+/*
   {
     slug: "Sewing",
     title: "Sewing",
@@ -1046,7 +1041,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Sewing/Process/x.jpg", caption: "xx." }
     ]
   },
-  */
+*/
   {
     slug: "SliceofParadise",
     title: "Slice of Paradise",
@@ -1065,7 +1060,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/SliceofParadise/Process/x.jpg", caption: "xx." }
     ]
   },
-  /*
+/*
   {
     slug: "Soldering",
     title: "Soldering",
@@ -1084,7 +1079,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Soldering/Process/x.jpg", caption: "xx." }
     ]
   },
-  */
+*/
   {
     slug: "TattooMagic",
     title: "Tattoo Magic",
