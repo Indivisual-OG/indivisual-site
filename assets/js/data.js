@@ -658,7 +658,7 @@ const ARTWORKS = [
     tags: ["Digital", "AI", "Lensa", "completed"],
     description:
       "Playing around with overlaying AI-created portraits (made with Lensa) with a visual interpretation of my current endeavor to learn to listen to my now opening heart - as opposed to always be guided by my mind.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover2.jpg",
+    cover: ["https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover2.jpg"],
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Lingua/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Process/1.jpg", caption: "xx." },
@@ -1066,7 +1066,7 @@ const ARTWORKS = [
     tags: ["Acrylic", "Pens", "Canvas", "completed"],
     description:
       "In celebration of symmetry and biology, art in artificial structures, juice in round biology, and patience for process, this piece used tattoo stencil inspiration (art on my shoulders created by the prodigy and dear friend, @weltenwechsel_tattoos), honoring the further development of a theme represented in some of my art as well as a few tattoos on my body, always placed right/left of the midline: biological/artificial - magic/madness - body/spirit - matter/mind. I can see how this will go. I know the pieces fit.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Cover2.jpg",
+    cover: ["https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Cover2.jpg"],
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/TattooMagic/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/TattooMagic/Process/1.jpg", caption: "xx." },

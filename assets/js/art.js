@@ -28,14 +28,23 @@
   const dateStr = isNaN(date) ? "" : date.toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" });
   const tags = (art.tags || []).map((t) => `<span class="tag">${t}</span>`).join("");
 
+  // `cover` is usually a single image URL, but can also be an array of
+  // URLs for pieces that have more than one "front" (e.g. two sides of a
+  // canvas). Normalize to an array so both forms render the same way.
+  const covers = Array.isArray(art.cover) ? art.cover : [art.cover];
+
   container.innerHTML = `
     <nav class="breadcrumb wrap">
       <a href="index.html">&larr; All work</a>
     </nav>
 
     <section class="art-hero wrap">
-      <div class="image-frame" id="cover-frame">
-        <img src="${art.cover}" alt="${art.title}" />
+      <div class="image-frame${covers.length > 1 ? " multi" : ""}" id="cover-frame">
+        ${covers
+          .map(
+            (src, i) => `<img src="${src}" alt="${art.title}" data-cover-index="${i}" />`
+          )
+          .join("")}
       </div>
       <div class="art-info">
         <h1>${art.title}</h1>
@@ -76,9 +85,14 @@
     </div>
   `;
 
-  // Lightbox: cover image opens standalone, process images open as a set
-  document.getElementById("cover-frame").addEventListener("click", () => {
-    Lightbox.open([{ src: art.cover, caption: art.title }], 0);
+  // Lightbox: cover image(s) open as their own navigable set, process
+  // images open as a separate set.
+  const coverImages = covers.map((src) => ({ src, caption: art.title }));
+  document.querySelectorAll("#cover-frame img").forEach((img) => {
+    img.addEventListener("click", () => {
+      const i = parseInt(img.dataset.coverIndex, 10) || 0;
+      Lightbox.open(coverImages, i);
+    });
   });
 
   const processImages = (art.process || []).map((p, i) => ({

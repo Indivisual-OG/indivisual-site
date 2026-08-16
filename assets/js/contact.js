@@ -15,6 +15,14 @@
  * this only deters basic scrapers, not bots that fully execute
  * JavaScript. There's no fully bot-proof way to publish a
  * clickable email link; this just raises the bar cheaply.
+ *
+ * IMPORTANT: because the address below is reversed, it is very easy
+ * to introduce a typo here that's nearly invisible to spot (e.g.
+ * swapping "_" and "-"). The real address is indivisual_OG@proton.me
+ * (underscore, not hyphen). If you ever need to edit this, the
+ * safest way is: type the real address forwards, reverse it with
+ * `node -e "console.log([...'indivisual_OG@proton.me'].reverse().join(''))"`,
+ * and paste the result below — don't hand-edit the reversed text directly.
  */
 (function () {
   var reversed = "em.notorp@GO_lausividni";

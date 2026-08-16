@@ -50,10 +50,13 @@
         const tags = (art.tags || [])
           .map((t) => `<span class="tag">${t}</span>`)
           .join("");
+        // cover can be a single URL or an array (pieces with more than one
+        // "front" image) — the grid thumbnail always just shows the first one.
+        const firstCover = Array.isArray(art.cover) ? art.cover[0] : art.cover;
         return `
           <a class="card" href="art.html?piece=${encodeURIComponent(art.slug)}">
             <div class="thumb-wrap">
-              <img src="${art.thumb || art.cover}" alt="${art.title}" loading="lazy" />
+              <img src="${art.thumb || firstCover}" alt="${art.title}" loading="lazy" />
             </div>
             <div class="card-body">
               <h3>${art.title}</h3>
