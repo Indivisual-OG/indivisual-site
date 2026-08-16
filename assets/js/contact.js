@@ -17,7 +17,7 @@
  * clickable email link; this just raises the bar cheaply.
  */
 (function () {
-  var reversed = "em.notorp@GO-lausividni";
+  var reversed = "em.notorp@GO_lausividni";
   var address = reversed.split("").reverse().join("");
 
   var link = document.getElementById("email-link");
