@@ -122,8 +122,8 @@ const ARTWORKS = [
     tags: ["Digital", "Handdrawn", "Samsung Tablet", "in progress"],
     description:
       "The mantra of Let Go and Begin Again artfully focused in this ongoing piece, which is only drawn on trains (so far).",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BeginAgain/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/c_fit,h_150,w_150/BeginAgain/thumb.jpg",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/e_contrast:level_100;type_sigmoidal/q_auto:best/f_auto/BeginAgain/Cover.jpgg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_1.09/e_contrast:level_100;type_sigmoidal/BeginAgain/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BeginAgain/Process/6.jpg", caption: "Always in progress with each train ride. I enjoy the imprecision of the moving vehicle that is introduced to the draw strokes." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BeginAgain/Process/5.jpg", caption: "Slowly evolving II." },
