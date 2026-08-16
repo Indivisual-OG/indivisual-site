@@ -584,7 +584,7 @@ const ARTWORKS = [
   {
     slug: "Iceland",
     title: "Iceland",
-    date: "2026-02-2",
+    date: "2026-02-02",
     medium: "Acrylic Pens and Paints on canvas, inspired by AI-derived Art",
     tags: ["Acrylic", "Pens", "Paints", "Canvas", "AI", "abandoned/discontinued"],
     description:
