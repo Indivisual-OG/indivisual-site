@@ -494,11 +494,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Flyer/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Process/1a.jpg", caption: "xx." }
     ]
   },
   {
