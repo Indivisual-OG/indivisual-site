@@ -12,20 +12,33 @@
     new Set(sorted.flatMap((a) => a.tags || []))
   ).sort();
 
-  let activeTag = "all";
+  // Multiple tags can be selected at once. An empty set means "no filter,
+  // show everything". A piece must have ALL of the currently selected tags
+  // to be shown (AND, not OR) — this lets you narrow down results by
+  // stacking filters, e.g. selecting "Acrylic" + "Canvas" shows only pieces
+  // that are both, the same way most faceted filter UIs work.
+  const activeTags = new Set();
 
   function renderFilters() {
     if (!filtersEl || allTags.length === 0) return;
     const buttons = ["all", ...allTags].map((tag) => {
-      const cls = tag === activeTag ? "filter-btn active" : "filter-btn";
+      const isActive = tag === "all" ? activeTags.size === 0 : activeTags.has(tag);
+      const cls = isActive ? "filter-btn active" : "filter-btn";
       const label = tag === "all" ? "All" : tag;
-      return `<button class="${cls}" data-tag="${tag}">${label}</button>`;
+      return `<button class="${cls}" data-tag="${tag}" aria-pressed="${isActive}">${label}</button>`;
     });
     filtersEl.innerHTML = buttons.join("");
 
     filtersEl.querySelectorAll(".filter-btn").forEach((btn) => {
       btn.addEventListener("click", () => {
-        activeTag = btn.dataset.tag;
+        const tag = btn.dataset.tag;
+        if (tag === "all") {
+          activeTags.clear();
+        } else if (activeTags.has(tag)) {
+          activeTags.delete(tag);
+        } else {
+          activeTags.add(tag);
+        }
         renderFilters();
         renderGallery();
       });
@@ -34,12 +47,18 @@
 
   function renderGallery() {
     const items =
-      activeTag === "all"
+      activeTags.size === 0
         ? sorted
-        : sorted.filter((a) => (a.tags || []).includes(activeTag));
+        : sorted.filter((a) => {
+            const tags = a.tags || [];
+            return [...activeTags].every((t) => tags.includes(t));
+          });
 
     if (items.length === 0) {
-      galleryEl.innerHTML = `<p class="empty-state">No pieces yet — add one in assets/js/data.js</p>`;
+      galleryEl.innerHTML =
+        sorted.length === 0
+          ? `<p class="empty-state">No pieces yet — add one in assets/js/data.js</p>`
+          : `<p class="empty-state">No pieces match the selected filters — try removing one.</p>`;
       return;
     }
 
