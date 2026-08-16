@@ -68,7 +68,10 @@
           .map(
             (p, i) => `
           <div class="process-item" data-index="${i}">
-            <img src="${p.src}" alt="${p.caption || "Process image " + (i + 1)}" loading="lazy" />
+            <div class="process-thumb">
+              <div class="thumb-bg" style="background-image:url('${p.src}')"></div>
+              <img src="${p.src}" alt="${p.caption || "Process image " + (i + 1)}" loading="lazy" />
+            </div>
             <div class="caption"><span class="step">${String(i + 1).padStart(2, "0")}</span>${p.caption || ""}</div>
           </div>
         `
