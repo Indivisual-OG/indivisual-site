@@ -45,7 +45,7 @@ const ARTWORKS = [
     tags: ["Acrylic", "Pens", "Watercolors", "Oil", "Canvas", "completed"],
     description: "A piece of the series expressing confusion and hurt after being mistreated and ghosted by a Significant Other.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/AngerOut/cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/AngerOut/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/AngerOut/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/AngerOut/Process/2.jpg", caption: "Almost done." },
       { src: "https://res.cloudinary.com/griwok9m/image/f_auto/q_auto/AngerOut/Process/3.jpg", caption: "Without focus yet." },
@@ -84,7 +84,7 @@ const ARTWORKS = [
     description:
       "Processing my first Aphex Twin live experience in Bristol (Forward's Festival) through Art (completed). The Aphex Twin set at #forwardsfestival in Bristol was a monument to nonverbal communication through sound and video that felt like the artist had understood the limit of the framerate at which my mind is processing information, playing with afterimages and overlaying beats. In this way, he was able to edge this boundary, constantly pushing for it to allow more room. To me, the experience of the music and accompanying art was an invitation for intellectual discourse not based on words. It was an enticement to engage with a genius mind that is not bound by a need to please and which has the ability to create a space of his own choosing within music. The set opened this container for me in which I could experience and appreciate utter confusion, astonishment and chaos safely. There was a summary in there of what it must be like to know you are dying, followed instantly by the most whimsical AF tunes, insights into (maybe) what its like to be an artist and their personal story in current pop culture society, and an intense quick trip through all kinds of styles of electronic music that felt like a good fuck. When it was over and the music, lights, and lasers were just turned off like a flash, the 10k crowd needed a couple minutes before they could collect themselves enough to even cheer and applaud.  I have been looking for words that do this experience justice since then and hope I am doing an OK job. Regardless - it was incredible and I had a fucking blast..I think. :D I am adding some art by cfflepp that was posted to Aphex Twin's FB page by someone trying to express what the music may look like and I feel it was quite accurate. (Source: http://andyamholst.com/2022/02/22/zwei-notenblaetter-2). In case you have a VR headset, someone recorded the Field Day show on 360 Video with Spatial Audio: https://youtu.be/fkmo-LseN0c?si=7oJ8GeqhyQed3fm2. For nerds, this RedditPost makes your little hearts happy with the setlist and Spotify Support Playlist: https://reddit.com/r/aphextwin/s/FHRRZffy.",   
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Aphex/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Aphex/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/1.jpg", caption: "Pretty under UV Light." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/4.jpg", caption: "Clean before the final style is added." },
@@ -102,7 +102,7 @@ const ARTWORKS = [
     description:
       "The story of this piece: Luring the enthusiast in me with the likeness of the name to the famed *Dismaland* by original artist Banksy and peers a while back, I went, uninformed, excited, almost triggered by streetart at its finest, promised to be presented while I visited San Diego end of December. How disappointed I was, and how offended, angry even. The exhibition was simple theft, traveling through the US, quotes printed in big letters, casts of what looks like original pieces, and a poster full of art that's ever so slightly altered to evoke the artist's genius, but is not quite be the same image. The horrified exit through the gift shop was an offense all by itself, where the spray cans that had been used to spray the show's name everywhere around the venue on the sidewalks and on the walls inside the *gallery* were sold as swag for 30-fucking-$. AbomiNation USA at its' most ugly, squeezing original, subversive art until money falls out, leaving the pieces unrecognizable, even to those I would consider of the capacity to process what happens right in front of their eyes. Had the joke been meta, god, what a genius. Sadly, it wasn't, and this is just a money machine. The experience had me steal one of the posters and create this piece as a statement, representing my own first steps into the journey of art.Go fuck yourself, Banksyland, and no-thank-you at all for the inspiration. For a more nuanced analysis from less passionate people, read: https://www.sandiegouniontribune.com/entertainment/visual-arts/story/2022-12-04/banksyland-and-the-proliferation-of-the-immersive-art-experience.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Banksyland_AbomiNation/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Banksyland_AbomiNation/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Banksyland_AbomiNation/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Banksyland_AbomiNation/Process/6.jpg", caption: "Amazing under UV Lights." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Banksyland_AbomiNation/Process/5b.jpg", caption: "UV light look is always a consideration." },
@@ -123,7 +123,7 @@ const ARTWORKS = [
     description:
       "The mantra of Let Go and Begin Again artfully focused in this ongoing piece, which is only drawn on trains (so far).",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BeginAgain/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BeginAgain/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BeginAgain/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BeginAgain/Process/6.jpg", caption: "Always in progress with each train ride. I enjoy the imprecision of the moving vehicle that is introduced to the draw strokes." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BeginAgain/Process/5.jpg", caption: "Slowly evolving II." },
@@ -142,7 +142,7 @@ const ARTWORKS = [
     description:
       "Inspired by a psychedelic experience at Ozora Festival 2024.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BlissScramble/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BlissScramble/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/13.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/12.jpg", caption: "xx." },
@@ -168,7 +168,7 @@ const ARTWORKS = [
     description:
       "Part of some lingerie that passionately got ripped to pieces and made its way onto a canvas for some fish scale-inspired art.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Body/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Body/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Body/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Body/Process/5.jpg", caption: "Almost perfect." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Body/Process/4.jpg", caption: "Nearing completion..maybe?." },
@@ -186,7 +186,7 @@ const ARTWORKS = [
     description:
       "Ever wonder how art gets created? This one is an example of *from boredom, based on opportunity.* Saw this FB post, liked the pattern (Wave Optic diagram), traced it, fucked around, found out, painted over, liked it. Voilà.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BordedSymmetry1/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BordedSymmetry1/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/7.jpg", caption: "xx." },
@@ -207,7 +207,7 @@ const ARTWORKS = [
     description:
       "Emerging from playing around with dividers and a ruler, this pieces is another version of crerative approach to bordedom.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BoredSymmetry2_Deity/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BoredSymmetry2_Deity/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/2.jpg", caption: "xx." }
@@ -223,7 +223,7 @@ const ARTWORKS = [
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BoredSymmetry3/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BoredSymmetry3/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." },
@@ -241,7 +241,7 @@ const ARTWORKS = [
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry4/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BoredSymmetry4/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BoredSymmetry4/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry4/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry4/Process/x.jpg", caption: "xx." },
@@ -260,7 +260,7 @@ const ARTWORKS = [
     description:
       "Intended as gifts, 3 blankets with the art pieces were ordered for print. The art was created in a digital drawing program.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurningMan_Blanket/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BurningMan_Blanket/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BurningMan_Blanket/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurningMan_Blanket/Process/1.jpg", caption: "A neat digital interface to create such cool images that can then be printed onto fabric (a blanket)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurningMan_Blanket/Process/2.jpg", caption: "Original direction of the image, sporting Burning Man imagery." }
@@ -275,7 +275,7 @@ const ARTWORKS = [
     description:
       "For the Metamorphoses theme of Burning Man 2018, I created a sticker about the life cycle of a frog, reading *So froggin meta*, which only very few people actually got as a joke. I liked it :D",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurningMan_Sticker/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BurningMan_Sticker/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BurningMan_Sticker/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurningMan_Sticker/Process/2.jpg", caption: "The interface that allowed me to print my design onto a see-through sticker material." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurningMan_Sticker/Process/1.jpg", caption: "A neat design - which noone got :D Total Nerd-levels.. I loved it :D" }
@@ -290,7 +290,7 @@ const ARTWORKS = [
     description:
       "Celebrating a global mindset alongside local awareness for Burner culture.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurnLocal/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/BurnLocal/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/BurnLocal/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurnLocal/Process/2.jpg", caption: "I managed to keep this quite logo-y and leave white spaces." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BurnLocal/Process/1.jpg", caption: "I got inspired by graffitti-style images." }
@@ -305,7 +305,7 @@ const ARTWORKS = [
     description:
       "This CCC-themed piece is created from a leftover poster from CCC's 39C3 and lots of stickers and flyers from EH2026, as well as 38C3. It is now settled that this piece will go into silent auction at Kongress in December, with the money intended to support a yet unchosen good cause in this, my community :) #silentauction #Chaos #C3.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/CCC_NieSie/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/CCC_NieSie/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/CCC_NieSie/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/CCC_NieSie/Process/6.jpg", caption: "Endlessly incomplete, but already pretty shapely." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/CCC_NieSie/Process/5.jpg", caption: "Working out focus areas." },
@@ -324,7 +324,7 @@ const ARTWORKS = [
     description:
       "I love looking at art from far away, normal distance, and up close and try to satisfy the details of each of those perspectives (like pinch-zooming into your pics on the phone).",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Chaos_Order/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Chaos_Order/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Chaos_Order/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Chaos_Order/Process/3.jpg", caption: "The intention was to have the pattern look like liquid had run through it, creating entropy/chaos from order." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Chaos_Order/Process/2a.jpg", caption: "A small piece, this was really fun toi draw and the first time I used different media (paint and pens, in this case)." },
@@ -341,7 +341,7 @@ const ARTWORKS = [
     description:
       "A collage from paper pieces printed with the image of Pusheen, the Cat.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage1_Pusheen/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Collage1_Pusheen/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Collage1_Pusheen/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage1_Pusheen/Process/1.jpg", caption: "xx." }
     ]
@@ -355,7 +355,7 @@ const ARTWORKS = [
     description:
       "A collage and mixed media piece that inspired my art journey, made from paper pieces collected over years, printed with things and advertising concepts that aim to make people happy, removed from the original product packaging. Perfect for a statement about Decommodification and leaving Capitalism behind. Gifted to the amazing Elin.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage3_Decommodify/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Collage3_Decommodify/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Collage3_Decommodify/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage3_Decommodify/Process/1.jpg", caption: "I collected the pieces for this collage for an insanely long time. THe topic was loose the intention of information to seemingly make people happy and smile when buying a product. THe black framing has become an integral part to each piece." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage3_Decommodify/Process/2.jpg", caption: "The piece lacked aim and vision as I was making the collage, so the writing over the top was a much-needed bold move." },
@@ -372,7 +372,7 @@ const ARTWORKS = [
     description:
       "Asking WHY some people mistreat others without care, and expressing being very confused by this mistreatment.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/ConfusionAge/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/ConfusionAge/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/4.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/3.jpg", caption: "xx." },
@@ -391,7 +391,7 @@ const ARTWORKS = [
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/EarlyWork/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/EarlyWork/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/EarlyWork/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/EarlyWork/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/EarlyWork/Process/x.jpg", caption: "xx." },
@@ -410,7 +410,7 @@ const ARTWORKS = [
     description:
       "This one is also finally done - a fully digitally painted piece turned NFT that is both a meditation on the connection with, as well as an expression of admiration for the person this is a gift to. I am honored and overjoyed to be able to call you my friend.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Elindentity/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Elindentity/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/2a.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/5.jpg", caption: "xx." },
@@ -429,7 +429,7 @@ const ARTWORKS = [
     description:
       "Being bored among a few not so entertaining people at a home burn, I found some ink and some pens, and kinda doodled for one of the more articulate and intellectually interesting people at the event.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Eukel/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Eukel/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/2.jpg", caption: "xx." },
@@ -446,7 +446,7 @@ const ARTWORKS = [
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Exhibition_Kulti/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Exhibition_Kulti/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Exhibition_Kulti/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Exhibition_Kulti/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Exhibition_Kulti/Process/x.jpg", caption: "xx." },
@@ -465,7 +465,7 @@ const ARTWORKS = [
     description:
       "This piece sought to capture my meditations on maturing my female energy, through music preference. It intends to process the changes and intense recent growth alongside and in connection with some significant personal female inspiration figures - Lorde and Florence represented as guides - in my life. Also it helps me work through the massive girlcrush I have on Florence as well as the extensive awe I feel for Florence and the Machine.s new album -Everybody Scream. Lastly, it aids in exploring what that actually is, female energy: raw, tender, connective? Yes, and..dark and light, and beautiful, or intentionally spikey, yet real. So far, I identified heavily with the the cool, quirky, always evolving style of Lorde, whose albums - her newest cover art included here, as well as in original- always seemed to mirror exactly what was going on in my life - all the way to her very passionate, sexy undertones on the new album, Virgin. Then, I met Florence Welch.s pure magic, her explosive, still quirky, but very self-aware female energy bursting out of every one of her songs on the new album - Florence and the Machine.s Everybody Scream, similarly included and provided in original. I felt myself overwhelmed with awe and the invitation to look at my own female energy - which has become overboarding, rich, voluptuous, attractive, enticing, deep, but still quirky. I want to blurt out the colors, celebrate mind and emotion, just as Florence and the image do.  A self-portrait generated by feeding Lensa images of me through the last year, with my expanding magic and mind shining through tied everything together for this piece.  So inspiring. Guess I too am unfurling, becoming my whole size :) Watch this space... Album art cover and art by Florence and the Machine and Lorde.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/FemaleEnergy/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/FemaleEnergy/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/FemaleEnergy/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/FemaleEnergy/Process/1.jpg", caption: "Lorde contributing artwork as inspiration." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/FemaleEnergy/Process/2.jpg", caption: "The cover of the new Florence and the Machine Album (Everybody Screams) offered the inspirational art that had me start this piece." },
@@ -492,7 +492,7 @@ const ARTWORKS = [
     description:
       "Flyer created in Canva, for my 2024 Birthday.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Flyer/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Flyer/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/3.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/2.jpg", caption: "xx." },
@@ -509,7 +509,7 @@ const ARTWORKS = [
     description:
       "My first attempt at art again since high school..I have come a long way this year.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Fuechse+Pelikane/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Fuechse+Pelikane/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Fuechse+Pelikane/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Fuechse+Pelikane/Process/4.jpg", caption: "Quirky paper." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Fuechse+Pelikane/Process/3.jpg", caption: "Heavy marker use is experimental." },
@@ -526,7 +526,7 @@ const ARTWORKS = [
     description:
       "Painting my wooden couch table on a whim, fully resolved to throw it out if it looks shit..It doesn't, and here we are.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Furniture1_Vortex/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Furniture1_Vortex/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/Process/1.jpg", caption: "xx." }
     ]
@@ -540,7 +540,7 @@ const ARTWORKS = [
     description:
       "I found this little blue cupboard among some other furniture to be thrown away by the side of the road, didnt like the blue, but thought, it was a fun piece to try some more furniture painting on it. It is definitely not blue anymore now :D.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Furtniture2/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Furtniture2/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/8.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/7.jpg", caption: "xx." },
@@ -562,7 +562,7 @@ const ARTWORKS = [
     description:
       "A gourd, harvested in my friend.s garden in San Diego I hollowed out to keep only the hard outer shell. I then painted the outside with Acrylic Paints, and placed a stringlight inside.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Gourd_Lamp/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Gourd_Lamp/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Gourd_Lamp/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Gourd_Lamp/Process/1.jpg", caption: "xx." }
     ]
@@ -576,7 +576,7 @@ const ARTWORKS = [
     description:
       "A leisure time doodle on my Samsung  Galaxy Tab8 led to this nice piece which could easily be a postcard.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Heart/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Heart/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Heart/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Heart/Process/1.jpg", caption: "xx." }
     ]
@@ -590,7 +590,7 @@ const ARTWORKS = [
     description:
       "I started this piece with the intention to memorize my and SZs trip to Iceland in August 2026. I had an AI create me an image with a volcano, penguins, the RV, a solar eclipse and the generic Northern Lights.. I quickly realized, that I could not begin drawin before actually having been on the trip - and now, afterwards, know that I could never have done the experience justice with such mundane means.. Watch this space, I will try to do better, although accurately painting those volcanic colors inside that volcano may take a lifetime.. :) Thank you, SZ for the trip, you made it worth all its while <3.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Iceland/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Iceland/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/1.jpg", caption: "xx." }
     ]
@@ -604,7 +604,7 @@ const ARTWORKS = [
     description:
       "Honoring a special place and a special community.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Idarwald/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Idarwald/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Idarwald/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Idarwald/Process/1.jpg", caption: "Amazing under UV light." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Idarwald/Process/7.jpg", caption: "Almost complete..maybe." },
@@ -625,7 +625,7 @@ const ARTWORKS = [
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LensaAI/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/LensaAI/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/LensaAI/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LensaAI/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LensaAI/Process/x.jpg", caption: "xx." },
@@ -644,7 +644,7 @@ const ARTWORKS = [
     description:
       "Inspired by a magical stencil, the practice (and practice, and practice..) of letting go, and by someone beautiful, wise, and nurturing (whose gift this art may become). #goyoga.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LetGo/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/LetGo/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/LetGo/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LetGo/Process/1.jpg", caption: "Intentionally gorgeous under UV light - which is one of the dimensions I paint with." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LetGo/Process/2a.jpg", caption: "Different light brings out different qualities in the almost completed artwork." },
@@ -664,7 +664,7 @@ const ARTWORKS = [
     description:
       "Playing around with overlaying AI-created portraits - made with Lensa - with a visual interpretation of my current endeavor to learn to listen to my now opening heart - as opposed to always be guided by my mind.",
     cover: ["https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Cover2.jpg"],
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Lingua/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Lingua/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/2.jpg", caption: "xx." }
@@ -679,7 +679,7 @@ const ARTWORKS = [
     description:
       "Exploring self-image and emotions in my art.. inspired by the quiet horror of accepting words from people who hurt us at face value.. or not..",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/LoveWhenYouCry/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/LoveWhenYouCry/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/2.jpg", caption: "xx." },
@@ -696,7 +696,7 @@ const ARTWORKS = [
     description:
       "Art created for the logo of the event honoring the 80th anniversary of the Bicycle Day in Basel, Switzerland.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/LSD80/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/LSD80/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/2.jpg", caption: "xx." },
@@ -714,7 +714,7 @@ const ARTWORKS = [
     description:
       "The lyrics of Käptn Peng's Pförtner needed a monument, too.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Lyrics1_Peng/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Lyrics1_Peng/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/7.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/6.jpg", caption: "xx." },
@@ -734,7 +734,7 @@ const ARTWORKS = [
     description:
       "The lyrics to Tool's Sober are incrtedibly powerful and needed to be represented in art.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Lyrics2_Tool/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Lyrics2_Tool/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/2.jpg", caption: "xx." },
@@ -759,7 +759,7 @@ const ARTWORKS = [
     description:
       "This one is a nice example of the case where an idea of how to represent some idea does not work out. I love the track, but I could not transfer my emotions and impressions of it onto my art..maybe I will try again in the future.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Lyrics3_Puscifer/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Lyrics3_Puscifer/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/2.jpg", caption: "xx." },
@@ -780,7 +780,7 @@ const ARTWORKS = [
     description:
       "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations1_T+C/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations1_T+C/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations1_T+C/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations1_T+C/Process/2.jpg", caption: "I did not take many progress pictures here because I was working on another piece as well, while still giving this my undivided attention in-between." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations1_T+C/Process/1.jpg", caption: "The basis was simple." }
@@ -795,7 +795,7 @@ const ARTWORKS = [
     description:
       "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations2_L+Y/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations2_L+Y/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations2_L+Y/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations2_L+Y/Process/1.jpg", caption: "xx." }
     ]
@@ -809,7 +809,7 @@ const ARTWORKS = [
     description:
       "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations3_M/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations3_M/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations3_M/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations3_M/Process/4.jpg", caption: "I tend to continue with a piece until it trulz is perfect, and then leave it for a bit to see if something still needs to be changed." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations3_M/Process/3.jpg", caption: "Underway for an intricate level of detail." },
@@ -826,7 +826,7 @@ const ARTWORKS = [
     description:
       "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations4_Meg/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations4_Meg/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/2.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/1.jpg", caption: "xx." }
@@ -841,7 +841,7 @@ const ARTWORKS = [
     description:
       "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed. This one was especially meaningful to me. <3",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations5_SZ/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations5_SZ/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." },
@@ -859,7 +859,7 @@ const ARTWORKS = [
     description:
       "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations6_H/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations6_H/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Process/4.jpg", caption: "This piece is not yet complete, because the connection loosened. Still, she inspired me enpugh, I started drawing her." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Process/3.jpg", caption: "This grew quirkily, with the shapes changing types of object (questionsmark to hear, for example)." },
@@ -876,7 +876,7 @@ const ARTWORKS = [
     description:
       "This piece was a birh gift to the son of a colleague, and therefore was a special case of the meditations, because I envisioned what he would become, instead of what I know about him.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations7_L/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations7_L/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/4.jpg", caption: "Completed quickly." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/3.jpg", caption: "Boldness in colours." },
@@ -893,7 +893,7 @@ const ARTWORKS = [
     description:
       "A gift to my father on his day of retirement.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Meditations8_Dad/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Meditations8_Dad/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Process/1.jpg", caption: "xx." }
     ]
@@ -907,7 +907,7 @@ const ARTWORKS = [
     description:
       "The source image was generated in Midjourney, prompting it to deliver a picture of a bower bird wearing a crown. The image picked was then overlaid with modifications in Infinite Painter and is now used as the logo of the Etsy shop Muchness Inc.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/MuchnessInc/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/MuchnessInc/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/2.jpg", caption: "xx." },
@@ -924,7 +924,7 @@ const ARTWORKS = [
     description:
       "Art in support of a planned Burning Man Camp idea.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/NathaliesLounge/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/NathaliesLounge/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/2.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/1.jpg", caption: "xx." }
@@ -939,7 +939,7 @@ const ARTWORKS = [
     description:
       "Trying out my new Spirograph worked pretty well :)",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/NeonSpiro/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/NeonSpiro/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Process/1.jpg", caption: "xx." }
     ]
@@ -953,7 +953,7 @@ const ARTWORKS = [
     description:
       "Origami FLowers are nice excerside for the hand and make great little gifts. I get motivated off and on to ctreate some new ones.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Origami/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Origami/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/8.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/7.jpg", caption: "xx." },
@@ -977,7 +977,7 @@ const ARTWORKS = [
     description:
       "Intended as a gift, this is a second piece based on the same central stencil, with sides and shapes signifying roots and wings this beautiful person has and grew.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Roots/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Roots/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/2.jpg", caption: "xx." },
@@ -993,7 +993,7 @@ const ARTWORKS = [
     description:
       "This collaboration piece is finally off to its rightful owner today - the originator of the lyrics, Schplomi/atomglomi. Thank you for the inspiration and for letting me use your words.",
     cover: ["https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Cover2.jpg"],
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Schplomi_Collab/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Schplomi_Collab/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/1b.jpg", caption: "xx." },
@@ -1022,7 +1022,7 @@ const ARTWORKS = [
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Sewing/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Sewing/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Sewing/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Sewing/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Sewing/Process/x.jpg", caption: "xx." },
@@ -1041,7 +1041,7 @@ const ARTWORKS = [
     description:
       "Experiment drawing a human, featuring trinkets, brought..well.. from paradise.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/SliceofParadise/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/SliceofParadise/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/9.jpg", caption: "xx." },
@@ -1064,7 +1064,7 @@ const ARTWORKS = [
     description:
       "Describe your piece.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Soldering/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Soldering/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Soldering/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Soldering/Process/x.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Soldering/Process/x.jpg", caption: "xx." },
@@ -1083,7 +1083,7 @@ const ARTWORKS = [
     description:
       "In celebration of symmetry and biology, art in artificial structures, juice in round biology, and patience for process, this piece used tattoo stencil inspiration (art on my shoulders created by the prodigy and dear friend, @weltenwechsel_tattoos), honoring the further development of a theme represented in some of my art as well as a few tattoos on my body, always placed right/left of the midline: biological/artificial - magic/madness - body/spirit - matter/mind. I can see how this will go. I know the pieces fit.",
     cover: ["https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Cover2.jpg"],
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/TattooMagic/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/TattooMagic/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/13.jpg", caption: "xx." },
@@ -1110,7 +1110,7 @@ const ARTWORKS = [
     description:
       "Wow..this has been a long time coming..I started this back in 2022: my second painting, my first in oil. Now it is finally completed, the unfinished image in a pile between other more advanced pieces had been calling me again this week. The original inspo was classical Starry Night, as well as my favority painting, CDF's Monk by the sea; plus a contemplation of the view out of my previous living room with the massive windows and moving door looking out over France on the 10th floor I liked to sit by, and the concept of the universe watching over things working out the way they should. Originally envisioned as the universe the person was gazing at, it turned into a tree with the person at its core and roots of things they carry along.. The tricky bit introducing the breaks and prolonbging the painting time was the use of oil paints (which in regular air will take 15 days to dry properly). This resulted in me losing interest for a while and moving on with something else a few times. The piece changed many times during its creation, but I'm very happy with it now.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Treedom/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Treedom/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/2.jpg", caption: "xx." },
@@ -1138,7 +1138,7 @@ const ARTWORKS = [
     description:
       "Inspired by a track from Puscifer.s album Existential Reckoning, this piece acknowledges that people need to withdraw and take time to work on themselves. In these times, they are not open to connect, and this is not an expression of the level of closeness to me - when I painted this, this was a new, surprising öesson to learn. That the person who triggered this was all kinds of imperfect in their relationship to me was something that I tried to not creep into my expression of the experience in this painting.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Update/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Update/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/9.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/8.jpg", caption: "xx." },
@@ -1161,7 +1161,7 @@ const ARTWORKS = [
     description:
       "A piece themed at visiting the Grand Canyon for my birthday in 2022.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/Vegas/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/Vegas/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/7.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/6.jpg", caption: "xx." },
@@ -1181,7 +1181,7 @@ const ARTWORKS = [
     description:
       "Work in preparation for a potential art exhibit alongside or for an event organized by the amazing, talented, wise, awe-inspiring elin_im_wunderland.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_200,z_1/YourLife/thumb.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/ar_1:1,c_thumb,w_150,z_2/q_auto/YourLife/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/1.jpg", caption: "xx." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/2.jpg", caption: "xx." },
