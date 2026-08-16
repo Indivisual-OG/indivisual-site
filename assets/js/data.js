@@ -79,9 +79,10 @@ const ARTWORKS = [
     slug: "Aphex",
     title: "Aphex",
     date: "2023-11-08",
-    medium: "Acrylic Pens, Paint, and Mixed Media on Paper ",
-    tags: ["Acrylic", "Pens", "Paint", "MixedMedia", "Paper", "completed"],
-    description:"Processing my first Aphex Twin live experience in Bristol (Forward's Festival) through Art (completed). The Aphex Twin set at #forwardsfestival in Bristol was a monument to nonverbal communication through sound and video that felt like the artist had understood the limit of the framerate at which my mind is processing information, playing with afterimages and overlaying beats. In this way, he was able to edge this boundary, constantly pushing for it to allow more room. To me, the experience of the music and accompanying art was an invitation for intellectual discourse not based on words. It was an enticement to engage with a genius mind that is not bound by a need to please and which has the ability to create a space of his own choosing within music. The set opened this container for me in which I could experience and appreciate utter confusion, astonishment and chaos safely. There was a summary in there of what it must be like to know you are dying, followed instantly by the most whimsical AF tunes, insights into (maybe) what its like to be an artist and their personal story in current pop culture society, and an intense quick trip through all kinds of styles of electronic music that felt like a good fuck. When it was over and the music, lights, and lasers were just turned off like a flash, the 10k crowd needed a couple minutes before they could collect themselves enough to even cheer and applaud.  I have been looking for words that do this experience justice since then and hope I am doing an OK job. Regardless - it was incredible and I had a fucking blast..I think. :D I am adding some art by cfflepp that was posted to Aphex Twin's FB page by someone trying to express what the music may look like and I feel it was quite accurate. (Source: http://andyamholst.com/2022/02/22/zwei-notenblaetter-2). In case you have a VR headset, someone recorded the Field Day show on 360 Video with Spatial Audio: https://youtu.be/fkmo-LseN0c?si=7oJ8GeqhyQed3fm2. For nerds, this RedditPost makes your little hearts happy with the setlist and Spotify Support Playlist: https://reddit.com/r/aphextwin/s/FHRRZffy.",   
+    medium: "Acrylic Pens, Paints, and Mixed Media on Paper ",
+    tags: ["Acrylic", "Pens", "Paints", "MixedMedia", "Paper", "completed"],
+    description:
+      "Processing my first Aphex Twin live experience in Bristol (Forward's Festival) through Art (completed). The Aphex Twin set at #forwardsfestival in Bristol was a monument to nonverbal communication through sound and video that felt like the artist had understood the limit of the framerate at which my mind is processing information, playing with afterimages and overlaying beats. In this way, he was able to edge this boundary, constantly pushing for it to allow more room. To me, the experience of the music and accompanying art was an invitation for intellectual discourse not based on words. It was an enticement to engage with a genius mind that is not bound by a need to please and which has the ability to create a space of his own choosing within music. The set opened this container for me in which I could experience and appreciate utter confusion, astonishment and chaos safely. There was a summary in there of what it must be like to know you are dying, followed instantly by the most whimsical AF tunes, insights into (maybe) what its like to be an artist and their personal story in current pop culture society, and an intense quick trip through all kinds of styles of electronic music that felt like a good fuck. When it was over and the music, lights, and lasers were just turned off like a flash, the 10k crowd needed a couple minutes before they could collect themselves enough to even cheer and applaud.  I have been looking for words that do this experience justice since then and hope I am doing an OK job. Regardless - it was incredible and I had a fucking blast..I think. :D I am adding some art by cfflepp that was posted to Aphex Twin's FB page by someone trying to express what the music may look like and I feel it was quite accurate. (Source: http://andyamholst.com/2022/02/22/zwei-notenblaetter-2). In case you have a VR headset, someone recorded the Field Day show on 360 Video with Spatial Audio: https://youtu.be/fkmo-LseN0c?si=7oJ8GeqhyQed3fm2. For nerds, this RedditPost makes your little hearts happy with the setlist and Spotify Support Playlist: https://reddit.com/r/aphextwin/s/FHRRZffy.",   
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Aphex/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Aphex/thumb.jpg",
     process: [
@@ -96,8 +97,8 @@ const ARTWORKS = [
     slug: "Banksyland_AbomiNation",
     title: "Banksyland: AbomiNation",
     date: "2023-01-15",
-    medium: "Collage and Acrylic Paint on Canvas",
-    tags: ["Collage", "Acrylic", "Canvas", "completed"],
+    medium: "Collage and Acrylic Paints on Canvas",
+    tags: ["Collage", "Acrylic", "Paints", "Canvas", "completed"],
     description:
       "The story of this piece: Luring the enthusiast in me with the likeness of the name to the famed *Dismaland* by original artist Banksy and peers a while back, I went, uninformed, excited, almost triggered by streetart at its finest, promised to be presented while I visited San Diego end of December. How disappointed I was, and how offended, angry even. The exhibition was simple theft, traveling through the US, quotes printed in big letters, casts of what looks like original pieces, and a poster full of art that's ever so slightly altered to evoke the artist's genius, but is not quite be the same image. The horrified exit through the gift shop was an offense all by itself, where the spray cans that had been used to spray the show's name everywhere around the venue on the sidewalks and on the walls inside the *gallery* were sold as swag for 30-fucking-$. AbomiNation USA at its' most ugly, squeezing original, subversive art until money falls out, leaving the pieces unrecognizable, even to those I would consider of the capacity to process what happens right in front of their eyes. Had the joke been meta, god, what a genius. Sadly, it wasn't, and this is just a money machine. The experience had me steal one of the posters and create this piece as a statement, representing my own first steps into the journey of art.Go fuck yourself, Banksyland, and no-thank-you at all for the inspiration. For a more nuanced analysis from less passionate people, read: https://www.sandiegouniontribune.com/entertainment/visual-arts/story/2022-12-04/banksyland-and-the-proliferation-of-the-immersive-art-experience.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Cover.jpg",
@@ -117,7 +118,7 @@ const ARTWORKS = [
     slug: "BeginAgain",
     title: "Begin Again",
     date: "2026-08-31",
-    medium: "Digital Art, drawn in Infinite Painted on a Samsung Galaxy Tab S8",
+    medium: "Digital Art, drawn in Infinite Painter on a Samsung Galaxy Tab S8",
     tags: ["Digital", "Handdrawn", "Samsung Tablet", "in progress"],
     description:
       "The mantra of Let Go and Begin Again artfully focused in this ongoing piece, which is only drawn on trains (so far).",
@@ -315,8 +316,8 @@ const ARTWORKS = [
     slug: "Chaos_Order",
     title: "Chaos & Order",
     date: "2023-05-08",
-    medium: "Acrylic Paint on Paper",
-    tags: ["Acrylic", "Pens", "Paper", "completed", "gifted"],
+    medium: "Acrylic Pens and Paints on Paper",
+    tags: ["Acrylic", "Pens", "Paints", "Paper", "completed", "gifted"],
     description:
       "I love looking at art from far away, normal distance, and up close and try to satisfy the details of each of those perspectives (like pinch-zooming into your pics on the phone).",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Chaos_Order/Cover.jpg",
@@ -456,8 +457,8 @@ const ARTWORKS = [
     slug: "FemaleEnergy",
     title: "Female Energy",
     date: "2026-06-09",
-    medium: "Acrylic Pens, Collage, and Transfer using foil",
-    tags: ["Acrylic", "Pens", "Collage", "Transfer", "completed"],
+    medium: "Acrylic Pens and Paints, Collage, and Transfer using foil",
+    tags: ["Acrylic", "Pens", "Paints", "Collage", "Transfer", "completed"],
     description:
       "This piece sought to capture my meditations on maturing my female energy, through music preference. It intends to process the changes and intense recent growth alongside and in connection with some significant personal female inspiration figures - Lorde and Florence represented as guides - in my life. Also it helps me work through the massive girlcrush I have on Florence as well as the extensive awe I feel for Florence and the Machine.s new album -Everybody Scream. Lastly, it aids in exploring what that actually is, female energy: raw, tender, connective? Yes, and..dark and light, and beautiful, or intentionally spikey, yet real. So far, I identified heavily with the the cool, quirky, always evolving style of Lorde, whose albums - her newest cover art included here, as well as in original- always seemed to mirror exactly what was going on in my life - all the way to her very passionate, sexy undertones on the new album, Virgin. Then, I met Florence Welch.s pure magic, her explosive, still quirky, but very self-aware female energy bursting out of every one of her songs on the new album - Florence and the Machine.s Everybody Scream, similarly included and provided in original. I felt myself overwhelmed with awe and the invitation to look at my own female energy - which has become overboarding, rich, voluptuous, attractive, enticing, deep, but still quirky. I want to blurt out the colors, celebrate mind and emotion, just as Florence and the image do.  A self-portrait generated by feeding Lensa images of me through the last year, with my expanding magic and mind shining through tied everything together for this piece.  So inspiring. Guess I too am unfurling, becoming my whole size :) Watch this space... Album art cover and art by Florence and the Machine and Lorde.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/FemaleEnergy/Cover.jpg",
@@ -483,8 +484,8 @@ const ARTWORKS = [
     slug: "Flyer",
     title: "Flyer",
     date: "2024-01-26",
-    medium: "Digital Art Flyer",
-    tags: ["Digital", "Canva", "completed"],
+    medium: "Digital Art created on a Galaxy Tab S8 for a later printed flyer",
+    tags: ["Digital", "Canva", "Samsung Tablet", "completed"],
     description:
       "Flyer created in Canva, for my 2024 Birthday.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Flyer/Cover.jpg",
@@ -501,8 +502,8 @@ const ARTWORKS = [
     slug: "Fuechse+Pelikane",
     title: "Füchse & Pelikane",
     date: "2021-05-22",
-    medium: "Stabilo Pens and Markers on Paper",
-    tags: ["Stabilo FineLiner", "Markers", "Paper", "completed"],
+    medium: "Stabilo FineLiners and Markers on Paper",
+    tags: ["Stabilo FineLiners", "Markers", "Paper", "completed"],
     description:
       "My first attempt at art again since high school..I have come a long way this year.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Fuechse+Pelikane/Cover.jpg",
@@ -564,7 +565,7 @@ const ARTWORKS = [
     slug: "Heart",
     title: "Heart",
     date: "2026-03-02",
-    medium: "Digital Art created by hand in Infinite Painted",
+    medium: "Digital Art handdrawn in Infinite Painter on my Samsung Galaxy Tab S8",
     tags: ["Digital", "Handdrawn", "Samsung Tablet", "completed"],
     description:
       "A leisure time doodle on my Samsung  Galaxy Tab8 led to this nice piece which could easily be a postcard.",
@@ -578,10 +579,10 @@ const ARTWORKS = [
     slug: "Iceland",
     title: "Iceland",
     date: "2026-02-2",
-    medium: "Acrylic pens and paints on canvas, inspired by AI-derived art",
+    medium: "Acrylic Pens and Paints on canvas, inspired by AI-derived Art",
     tags: ["Acrylic", "Pens", "Paints", "Canvas", "AI", "abandoned/discontinued"],
     description:
-      "Describe your piece.",
+      "I started this piece with the intention to memorize my and SZs trip to Iceland in August 2026. I had an AI create me an image with a volcano, penguins, the RV, a solar eclipse and the generic Northern Lights.. I quickly realized, that I could not begin drawin before actually having been on the trip - and now, afterwards, know that I could never have done the experience justice with such mundane means.. Watch this space, I will try to do better, although accurately painting those volcanic colors inside that volcano may take a lifetime.. :) Thank you, SZ for the trip, you made it worth all its while <3.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Iceland/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Iceland/thumb.jpg",
     process: [
@@ -652,10 +653,10 @@ const ARTWORKS = [
     slug: "Lingua",
     title: "Lingua Cordis - Lingua Intellectus",
     date: "2023-04-22",
-    medium: "Digital Art created with Lensa App and Infinite Painter",
-    tags: ["Digital", "AI", "Lensa", "completed"],
+    medium: "Digital Art created with Lensa App and Infinite Painter on my Galaxy Tab S8",
+    tags: ["Digital", "AI", "Lensa", "Samsung Tablet", "completed"],
     description:
-      "Playing around with overlaying AI-created portraits (made with Lensa) with a visual interpretation of my current endeavor to learn to listen to my now opening heart - as opposed to always be guided by my mind.",
+      "Playing around with overlaying AI-created portraits - made with Lensa - with a visual interpretation of my current endeavor to learn to listen to my now opening heart - as opposed to always be guided by my mind.",
     cover: ["https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover2.jpg"],
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Lingua/thumb.jpg",
     process: [
@@ -667,7 +668,7 @@ const ARTWORKS = [
     slug: "LoveWhenYouCry",
     title: "I love it when you cry",
     date: "2024-08-29",
-    medium: "Digital Art created with Infinite Painter and Samsung Galaxy Tab S8",
+    medium: "Digital Art created with Infinite Painter on my Samsung Galaxy Tab S8",
     tags: ["Digital", "Handdrawn", "Samsung Tablet", "in progress"],
     description:
       "Exploring self-image and emotions in my art.. inspired by the quiet horror of accepting words from people who hurt us at face value.. or not..",
@@ -684,7 +685,7 @@ const ARTWORKS = [
     slug: "LSD80",
     title: "LSD 80",
     date: "2023-04-19",
-    medium: "Digital Painting created with Infinite Painter",
+    medium: "Digital Painting created with Infinite Painter on my Galaxy Tab S8",
     tags: ["Digital", "Handdrawn", "Samsung Tablet", "completed"],
     description:
       "Art created for the logo of the event honoring the 80th anniversary of the Bicycle Day in Basel, Switzerland.",
@@ -811,8 +812,8 @@ const ARTWORKS = [
     slug: "Meditations4_Meg",
     title: "Meditations 4: Megan",
     date: "2023-12-08",
-    medium: "Acrylic Pens on Paper",
-    tags: ["Acrylic", "Pens", "Paper", "completed", "gifted"],
+    medium: "Ink and Acrylic Pens on Paper",
+    tags: ["Ink", "Acrylic", "Pens", "Paper", "completed", "gifted"],
     description:
       "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Meditations4_Meg/Cover.jpg",
@@ -892,7 +893,7 @@ const ARTWORKS = [
     slug: "MuchnessInc",
     title: "Muchness Inc.",
     date: "2023-02-23",
-    medium: "Digital Art created using Midjourney and Infinite Painter",
+    medium: "Digital Art created on my Galaxy Tab S8, using Midjourney and Infinite Painter",
     tags: ["Digital", "AI", "Handdrawn", "Samsung Tablet", "completed"],
     description:
       "The source image was generated in Midjourney, prompting it to deliver a picture of a bower bird wearing a crown. The image picked was then overlaid with modifications in Infinite Painter and is now used as the logo of the Etsy shop Muchness Inc.",
