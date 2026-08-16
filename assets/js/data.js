@@ -532,7 +532,7 @@ const ARTWORKS = [
     ]
   },
   {
-    slug: "Furniture2",
+    slug: "Furtniture2",
     title: "Furniture 2 - Little Blue Cupboard",
     date: "2026-01-02",
     medium: "Acrylic Paints on Wood",
