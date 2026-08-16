@@ -80,7 +80,7 @@ const ARTWORKS = [
     title: "Aphex",
     date: "2023-11-08",
     medium: "Acrylic Pens, Paint, and Mixed Media on Paper ",
-    tags: ["Acrylic", "Pens", "Paint", "MixedMedia", "Paper"],
+    tags: ["Acrylic", "Pens", "Paint", "MixedMedia", "Paper", "completed"],
     description:"Processing my first Aphex Twin live experience in Bristol (Forward's Festival) through Art (completed). The Aphex Twin set at #forwardsfestival in Bristol was a monument to nonverbal communication through sound and video that felt like the artist had understood the limit of the framerate at which my mind is processing information, playing with afterimages and overlaying beats. In this way, he was able to edge this boundary, constantly pushing for it to allow more room. To me, the experience of the music and accompanying art was an invitation for intellectual discourse not based on words. It was an enticement to engage with a genius mind that is not bound by a need to please and which has the ability to create a space of his own choosing within music. The set opened this container for me in which I could experience and appreciate utter confusion, astonishment and chaos safely. There was a summary in there of what it must be like to know you are dying, followed instantly by the most whimsical AF tunes, insights into (maybe) what its like to be an artist and their personal story in current pop culture society, and an intense quick trip through all kinds of styles of electronic music that felt like a good fuck. When it was over and the music, lights, and lasers were just turned off like a flash, the 10k crowd needed a couple minutes before they could collect themselves enough to even cheer and applaud.  I have been looking for words that do this experience justice since then and hope I am doing an OK job. Regardless - it was incredible and I had a fucking blast..I think. :D I am adding some art by cfflepp that was posted to Aphex Twin's FB page by someone trying to express what the music may look like and I feel it was quite accurate. (Source: http://andyamholst.com/2022/02/22/zwei-notenblaetter-2). In case you have a VR headset, someone recorded the Field Day show on 360 Video with Spatial Audio: https://youtu.be/fkmo-LseN0c?si=7oJ8GeqhyQed3fm2. For nerds, this RedditPost makes your little hearts happy with the setlist and Spotify Support Playlist: https://reddit.com/r/aphextwin/s/FHRRZffy.",   
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Aphex/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Aphex/thumb.jpg",
@@ -97,7 +97,7 @@ const ARTWORKS = [
     title: "Banksyland: AbomiNation",
     date: "2023-01-15",
     medium: "Collage and Acrylic Paint on Canvas",
-    tags: ["Collage", "Acrylic", "Canvas"],
+    tags: ["Collage", "Acrylic", "Canvas", "completed"],
     description:
       "The story of this piece: Luring the enthusiast in me with the likeness of the name to the famed *Dismaland* by original artist Banksy and peers a while back, I went, uninformed, excited, almost triggered by streetart at its finest, promised to be presented while I visited San Diego end of December. How disappointed I was, and how offended, angry even. The exhibition was simple theft, traveling through the US, quotes printed in big letters, casts of what looks like original pieces, and a poster full of art that's ever so slightly altered to evoke the artist's genius, but is not quite be the same image. The horrified exit through the gift shop was an offense all by itself, where the spray cans that had been used to spray the show's name everywhere around the venue on the sidewalks and on the walls inside the *gallery* were sold as swag for 30-fucking-$. AbomiNation USA at its' most ugly, squeezing original, subversive art until money falls out, leaving the pieces unrecognizable, even to those I would consider of the capacity to process what happens right in front of their eyes. Had the joke been meta, god, what a genius. Sadly, it wasn't, and this is just a money machine. The experience had me steal one of the posters and create this piece as a statement, representing my own first steps into the journey of art.Go fuck yourself, Banksyland, and no-thank-you at all for the inspiration. For a more nuanced analysis from less passionate people, read: https://www.sandiegouniontribune.com/entertainment/visual-arts/story/2022-12-04/banksyland-and-the-proliferation-of-the-immersive-art-experience.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Banksyland_AbomiNation/Cover.jpg",
@@ -137,7 +137,7 @@ const ARTWORKS = [
     title: "Blissful Scramble",
     date: "2024-08-10",
     medium: "Acrylic Pens and Paint on Canvas",
-    tags: ["Acrylic", "Pens", "Paints", "Canvas"],
+    tags: ["Acrylic", "Pens", "Paints", "Canvas", "completed"],
     description:
       "Inspired by a psychedelic experience at Ozora Festival 2024.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BlissScramble/Cover.jpg",
@@ -155,7 +155,7 @@ const ARTWORKS = [
     title: "Body",
     date: "2024-06-01",
     medium: "Fabric and Acrylic Paints on Canvas",
-    tags: ["Acrylic", "Paints", "Fabric"],
+    tags: ["Acrylic", "Paints", "Fabric", "completed"],
     description:
       "Part of some lingerie that passionately got ripped to pieces and made its way onto a canvas for some fish scale-inspired art.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Body/Cover.jpg",
@@ -173,7 +173,7 @@ const ARTWORKS = [
     title: "Bored Symmetry 1",
     date: "2024-03-15",
     medium: "Acrylic Pens, Paints, and various Pencils and Markers on Paper",
-    tags: ["Acrylic", "Pens", "Paints", "Paper"],
+    tags: ["Acrylic", "Pens", "Paints", "Paper", "completed"],
     description:
       "Ever wonder how art gets created? This one is an example of *from boredom, based on opportunity.* Saw this FB post, liked the pattern (Wave Optic diagram), traced it, fucked around, found out, painted over, liked it. Voilà.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Cover.jpg",
@@ -278,7 +278,7 @@ const ARTWORKS = [
     title: "Think Global - Burn Local",
     date: "2023-05-22",
     medium: "Acrylic Pens on Paper",
-    tags: ["Acrylic", "Pens", "Paper"],
+    tags: ["Acrylic", "Pens", "Paper", "completed", "gifted"],
     description:
       "Celebrating a global mindset alongside local awareness for Burner culture.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BurnLocal/Cover.jpg",
@@ -364,7 +364,7 @@ const ARTWORKS = [
     title: "Why?: Confusion Age",
     date: "2024-04-01",
     medium: "Acrylic Pens on Canvas",
-    tags: ["Acrylic", "Pens", "Canvas"],
+    tags: ["Acrylic", "Pens", "Canvas", "completed"],
     description:
       "Asking WHY some people mistreat others without care, and expressing being very confused by this mistreatment.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/ConfusionAge/Cover.jpg",
@@ -616,7 +616,7 @@ const ARTWORKS = [
     title: "Idarwald",
     date: "2023-12-22",
     medium: "Acrylic Pens and Paint on Paper",
-    tags: ["Acrylic", "Pens", "Paints", "Paper"],
+    tags: ["Acrylic", "Pens", "Paints", "Paper", "completed", "gifted"],
     description:
       "Honoring a special place and a special community.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Idarwald/Cover.jpg",
@@ -656,7 +656,7 @@ const ARTWORKS = [
     title: "Let Go",
     date: "2024-09-28",
     medium: "Acrylic Pens and Paints on Paper",
-    tags: ["Acrylic", "Pens", "Paints", "Paper"],
+    tags: ["Acrylic", "Pens", "Paints", "Paper", "completed", "gifted"],
     description:
       "Inspired by a magical stencil, the practice (and practice, and practice..) of letting go, and by someone beautiful, wise, and nurturing (whose gift this art may become). #goyoga.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LetGo/Cover.jpg",
@@ -676,7 +676,7 @@ const ARTWORKS = [
     title: "Lingua cordis - Lingua intellectus",
     date: "2023-04-22",
     medium: "Digital Art created with Lensa App and Infinite Painter",
-    tags: ["Digital", "AI", "Lensa"],
+    tags: ["Digital", "AI", "Lensa", "completed"],
     description:
       "Playing around with overlaying AI-created portraits (made with Lensa) with a visual interpretation of my current endeavor to learn to listen to my now opening heart - as opposed to always be guided by my mind.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Lingua/Cover.jpg",
@@ -712,7 +712,7 @@ const ARTWORKS = [
     title: "LSD 80",
     date: "2023-04-19",
     medium: "Digital Painting created with Infinite Painter",
-    tags: ["Digital", "Handdrawn", "Samsung Tablet"],
+    tags: ["Digital", "Handdrawn", "Samsung Tablet", "completed"],
     description:
       "Art created for the logo of the event honoring the 80th anniversary of the Bicycle Day in Basel, Switzerland.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/LSD80/Cover.jpg",
@@ -924,7 +924,7 @@ const ARTWORKS = [
     title: "Muchness Inc.",
     date: "2023-02-23",
     medium: "Digital Art created using Midjourney and Infinite Painter",
-    tags: ["Digital", "AI", "Handdrawn", "Samsung Tablet"],
+    tags: ["Digital", "AI", "Handdrawn", "Samsung Tablet", "completed"],
     description:
       "The source image was generated in Midjourney, prompting it to deliver a picture of a bower bird wearing a crown. The image picked was then overlaid with modifications in Infinite Painter and is now used as the logo of the Etsy shop Muchness Inc.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/MuchnessInc/Cover.jpg",
@@ -942,7 +942,7 @@ const ARTWORKS = [
     title: "Nathalie's Lounge",
     date: "2023-08-09",
     medium: "Acrylic Paint on Paper",
-    tags: ["Acrylic", "Pens", "Paper"],
+    tags: ["Acrylic", "Pens", "Paper", "completed"],
     description:
       "Art in support of a planned Burning Man Camp idea.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/NathaliesLounge/Cover.jpg",
@@ -996,7 +996,7 @@ const ARTWORKS = [
     title: "Roots",
     date: "2024-09-12",
     medium: "Acrylic Pens on Paper",
-    tags: ["Acrylic", "Pens", "Paper", "gifted"],
+    tags: ["Acrylic", "Pens", "Paper", "completed", "gifted"],
     description:
       "Intended as a gift, this is a second piece based on the same central stencil, with sides and shapes signifying roots and wings this beautiful person has and grew.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Roots/Cover.jpg",
