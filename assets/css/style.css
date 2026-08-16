@@ -269,6 +269,14 @@ img { display: block; max-width: 100%; }
 
 .art-hero .image-frame img { width: 100%; height: auto; }
 
+/* Some pieces have more than one "cover" (e.g. two sides of a canvas) —
+   show them side by side instead of just the first one. */
+.art-hero .image-frame.multi {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+}
+
 .art-info h1 {
   margin: 0 0 6px;
   font-size: 2rem;
@@ -421,4 +429,5 @@ img { display: block; max-width: 100%; }
 
 @media (max-width: 800px) {
   .art-hero { grid-template-columns: 1fr; }
+  .art-hero .image-frame.multi { grid-template-columns: 1fr; }
 }
