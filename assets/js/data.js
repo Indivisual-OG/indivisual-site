@@ -185,17 +185,17 @@ const ARTWORKS = [
     tags: ["Acrylic", "Pens", "Paints", "Paper", "completed"],
     description:
       "Ever wonder how art gets created? This one is an example of *from boredom, based on opportunity.* Saw this FB post, liked the pattern (Wave Optic diagram), traced it, fucked around, found out, painted over, liked it. Voilà.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BoredSymmetry1/thumb.jpg",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Cover.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/BordedSymmetry1/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BoredSymmetry1/Process/1a.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/BordedSymmetry1/Process/1a.jpg", caption: "xx." }
     ]
   },
   {
@@ -539,18 +539,18 @@ const ARTWORKS = [
     tags: ["Acrylic", "Paints", "Wood", "completed"],
     description:
       "I found this little blue cupboard among some other furniture to be thrown away by the side of the road, didnt like the blue, but thought, it was a fun piece to try some more furniture painting on it. It is definitely not blue anymore now :D.",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Furniture2/thumb.jpg",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Cover.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto,w_900/Furtniture2/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/8.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furniture2/Process/1a.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/8.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/7.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/6.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/5.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/4.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/3.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/2.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/1.jpg", caption: "xx." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto,q_auto/Furtniture2/Process/1a.jpg", caption: "xx." }
     ]
   },
   {
