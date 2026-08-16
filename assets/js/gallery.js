@@ -72,10 +72,16 @@
         // cover can be a single URL or an array (pieces with more than one
         // "front" image) — the grid thumbnail always just shows the first one.
         const firstCover = Array.isArray(art.cover) ? art.cover[0] : art.cover;
+        const thumbSrc = art.thumb || firstCover;
+        // The blurred backdrop div fills the whole thumbnail box with a
+        // softened, darkened copy of the same image (so portrait/odd-aspect
+        // pieces never leave awkward empty space), while the sharp <img>
+        // in front shows the piece in full without ever cropping it.
         return `
           <a class="card" href="art.html?piece=${encodeURIComponent(art.slug)}">
             <div class="thumb-wrap">
-              <img src="${art.thumb || firstCover}" alt="${art.title}" loading="lazy" />
+              <div class="thumb-bg" style="background-image:url('${thumbSrc}')"></div>
+              <img src="${thumbSrc}" alt="${art.title}" loading="lazy" />
             </div>
             <div class="card-body">
               <h3>${art.title}</h3>
