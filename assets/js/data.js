@@ -799,7 +799,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations2_L+Y/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations2_L+Y/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations2_L+Y/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations2_L+Y/Process/1.jpg", caption: "As with the other meditation pieces, I tried to reflect my feelings of the connection and my impression of the subjects of each piece. The code below was a quirky way to acknowledge the male designee's IT background, the color palette is what I associate the female designee's Australian heritage with. The words, as with the other pieces are reflections of my associations of them and their connection to me." }
     ]
   },
   {
@@ -830,8 +830,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/2.jpg", caption: "I really like the ink addition of media - it gives me shapes to work around, and it creates invitations to challenge my usual process. In this meditation, I added words that I associate with the subject of this piece, as well as much color, and fine nuanced changes." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/1.jpg", caption: "This picture shows how much color and structure I added after the ink was dried. Fun." }
     ]
   },
   {
@@ -897,7 +897,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Process/1.jpg", caption: "When my dad went into retirement, I felt inspired to reflect on what my perception had been of his work life. My father was, and still is a true role model to me when it comes to work perspectives, when it comes to living true to your decided values, to taking pride in your path without arrogance, and in for loyal devotion and commitment to family. His status at the end of his work career was my goal and destination for a long time, until my path diverged and I worked on difficulties he seemingly had not encountered (like trouble with inconsequent, incompetent, and incorrect leadership and authority - he bowed to this type of issue much better than I ever did or ever will). Huge respect, and I love you, Dad." }
     ]
   },
   {
@@ -911,10 +911,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/4.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/1.jpg", caption: "The piece was supposed to be the logo of the Muchness Inc webshop on Etsy a friend-at-the-time and me had planned. I got all excited, and created this image - using an AI-generated image of a bower bird wearing a crown, placed into Infinite Painted on my tablet and then stylized and filled in. Given that the bower bird creates peculiar nests out of blue things, we felt it was a great representation of our peculiar planned shop. The shop never really happened, and the friendship broke, but the image remains cool and my creation." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/2.jpg", caption: "The original AI image in Infinite Painter, showing the layers feature." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/3.jpg", caption: "Drawing over the picture to create the comic look." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/4.jpg", caption: "Initial additions with the base layer of the AI image switched off in Infinite Painter." }
     ]
   },
   {
@@ -953,21 +953,21 @@ const ARTWORKS = [
     medium: "Folded Paper and Glue, sometimes Acrylic Paints",
     tags: ["Paper", "Glue", "Acrylic", "Paints", "completed", "ongoing when needed"],
     description:
-      "Origami Flowers are a nice exercise for the hands and they make great little gifts. I get motivated off and on to create some new ones.",
+      "Origami Flowers are a nice exercise for the hands as well as making great little gifts. I get motivated off and on to create some new ones.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/8.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/5b.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1b.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1a.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/8.jpg", caption: "In case you want to try too, here are the instructions for these origiami flowers (cheating your way through using glue)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/7.jpg", caption: "When using the right paper, these flowers beautifully satisfy my need for UV-reactive pieces :)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/6.jpg", caption: "They have been placed on desks of friends all through the world." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/5.jpg", caption: "Some good planning of the paper will result in beautiful shaped backsides, too." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/5b.jpg", caption: "Even small sizes are possible (although they are not much faster to fold)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/4.jpg", caption: "When folded with care, they are very symmetrical and shapely." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/3.jpg", caption: "Connecting several basis flowers, beautiful symmetrical, and even fractal pieces are possible." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/2.jpg", caption: "A triple is a common gift-away level, especially since this shape rests stably on even surfaces." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1.jpg", caption: "Some insight into the process of creating these shows that strategic clips and the right glue do wonders in how long these last." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1b.jpg", caption: "Individual pieces get glued first, to later be joined to the individual flower level." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1a.jpg", caption: "The steps to creating origami flowers can be separated in time, for example by cutting and making individual sub-pieces in one step and then leaving a break for the glue drying and the hands resetting :) Enjoy!." }
     ]
   },
   {
@@ -1165,13 +1165,14 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/5.jpg", caption: "This piece expresses fury and anger with a situation that developed when I invited my friend-at-the-time to Las Vegas and the Grand Canyon for my birthday in 2022, which became a showcase for that friend when my male friend from San Diego joined us." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/6.jpg", caption: "I have not finished this piece (yet), feeling weird about airing all this out on Instagram or the like. I do it here, because much time has passed, and this piece definitely needs some explanations. We will see if I will finish the picture in the near future, or whether the energy is lost and old, and dusty, anyway.." },      
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/4.jpg", caption: "I did not yet know how to exert boundaries, and I felt I was indepted to the friend I invited, because she helped me greatly in overcoming a disastrous abusive relationship to a narcicisstic ex, listening to me not learning from his mistreatments over and over again. Shaping our relationship as the person who needs help on my part and the provider of care and guidance on her part, we took this dynamic on that trip, where she fully stepped into the receiving role, having me pay for all costs, and then taking center stage to show off to the others in my birthday party trip to the Grand Canyon. Unable to stand my ground, I was miserable. I was ready to step into my power after this trip, and when I asked her to reexamine our dynamics, our connection broke badly. Here, then, I hung her bunny, and placed a smudge, smiling cat into the center of the image. This cat, held hostage by her in the aftermath of our falling out definitely did not get a great position in all this, but she definitely did in this image." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/7.jpg", caption: "Before covering it all with paints, essentially to hide and obscure the content, the mixed media pieces stuck to the canvas visible were all souveniers and meorabilia from the trip  was expressing fury and anger with a situation that developed when I invited my friend-at-the-time to Las Vegas and the Grand Canyon for my birthday in 2022. The mixed media pieces stuck to the canvas are all souveniers and meorabilia from that trip which because a showcase for the friend I invited when my make friend from San Diego joined us." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/3.jpg", caption: "I considered long and hard about the bunny, and had not yet added it here." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/2.jpg", caption: "Looking back at the steps, drawing and building this piece helped catalyze a lot of the insights I described above. At its humble beginnings, the piece was mostly a way to commemorate the trip itself." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/1.jpg", caption: "Unobfuscated images of people involved, and unaltered memorabilia are visible at this early stage." }
+
     ]
   },
   {
