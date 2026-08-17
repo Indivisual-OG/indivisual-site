@@ -154,7 +154,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/6.jpg", caption: "I knew the piece needed to be square, and symmetrical somehow, and this was the first moment I felt the dynamic nature of the experience, the swirl and catalyst movement was going to be well-represented." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/5.jpg", caption: "At this point, the image was not very inspired yet, and felt too edgy and pointy. From experience, though, I know I just need to give it some time, and that there is always a white pen, and noone watching until I choose to have them." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/4.jpg", caption: "For some reason, the beginnings of this piece were slow, despite the vivid memory and big motivation to draw this experience." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/3.jpg", caption: "The piece was small enough to take it onto a train, and the Swiss public are private and reserved enough to not engage with such a curious activity as someone painting on public transportation." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/3.jpg", caption: "The piece was small enough to take onto a train, and the Swiss public are private and reserved enough to not engage with such a curious activity as someone painting on public transportation." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/2.jpg", caption: "A rough idea was at the humble beginnings of this piece." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/1.jpg", caption: "Special mentions for the start of this process were my acquisitions of gold metalic acrylic markers which I used as my starting point here." }
     ]
@@ -494,10 +494,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/1a.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/3.jpg", caption: "The event was the last bit of a time dominated by a relationship that truly was not benefitting me. Still, I looked forward to this birthday, especially since I had never celebrate a huge party like this. I got stood up by a few people, had some juice gifted to me, loved the music, learned a lot about the people around me, and realized, I am deserving of celebration :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/2.jpg", caption: "I played around a lot with the sizings and fought my urge to make everything pop with color. Canva is a nice piece of software, but it constraints what I feel should be free-flowing art (by requiring lines and frames and layers). Still - it did the job." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/1.jpg", caption: "I am unsure who among my guests actually got the H.S.T. reference up on the page, or if anyone understood the Burner-nature of the event, but it was enough it made me feel happy this was my invitation." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Flyer/Process/1a.jpg", caption: "When it was printed and mail-delivered to my guests, it was neat and square and looked great." }
     ]
   },
   {
@@ -528,7 +528,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/Process/1.jpg", caption: "The lighting is shit because this was taken at night, but the table turned out much better than I had anticipated. The black framing never misses, and the swirls progress beautifully from a cool silver, metallic through the colors to leave a dynamic impression." }
     ]
   },
   {
@@ -538,19 +538,19 @@ const ARTWORKS = [
     medium: "Acrylic Paints on Wood",
     tags: ["Acrylic", "Paints", "Wood", "completed"],
     description:
-      "I found this little blue cupboard among some other furniture to be thrown away by the side of the road, didnt like the blue, but thought, it was a fun piece to try some more furniture painting on it. It is definitely not blue anymore now :D.",
+      "I found this little blue cupboard among some other furniture to be thrown away by the side of the road, didn't like the blue basis, but thought it was a fun piece to try some more furniture painting on it. It is definitely not blue anymore now :D",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/8.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/1a.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/8.jpg", caption: "Both sides are different, and I managed to re-create the amazing mixture of the acrylic paints that had made it onto the Confusion Age piece. I also needed this done quickly at the end, so this served that purpose, too." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/7.jpg", caption: "A bit uninspired, but it did the trick in the beginning. I later painted the dots over the sides, too." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/6.jpg", caption: "Same here, a good basis, not enough of a perfect spiral to keep, but good enough to begin with. THe dots took over this side later, too." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/5.jpg", caption: "Between this and the next images were a few momnth, given I had lost my inspiration, the drying of the pain took agest when the surface was not soaking any moisture up, and I wasn't quite sure how much paint I was willing to spend on this." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/4.jpg", caption: "As you can see, not only did I change styles and methods, but also the colors of the initial dots :D" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/3.jpg", caption: "I intended this to look like paint had dripped onto the cupboard, but realized quickly that the dripping part would mean a danger of coloring the (paper-protected) floor as well as curious (and white) cat babies." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/2.jpg", caption: "The oriignal cupboard from above, tiny and almost too cute and blue." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/1.jpg", caption: "A mighty many number of drawers for such a small (knee-height) piece of furniture deserves some respect, at least :D" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Process/1a.jpg", caption: "Richness in colors and paints, ready to be used." }
     ]
   },
   {
@@ -564,7 +564,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Gourd_Lamp/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Gourd_Lamp/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Gourd_Lamp/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Gourd_Lamp/Process/1.jpg", caption: "The surface of the gourd was smooth and unporous, a bitch to paint on.. drying too ages, and I kept being unsure of the design.. In the end, I just did what stuck to the woody material and let it dry across weeks. A should take a picture of the finalized lamp hanging in my living room..Watch this space :)" }
     ]
   },
   {
@@ -578,7 +578,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Heart/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Heart/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Heart/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Heart/Process/1.jpg", caption: "This started as a little doodle for my partner at the time, but turned into an excercise of detail-perfection and never-ending layers that could be added. I had to fight the urge to fill in all the white space, but now, this makes for a nice post-card design or similar." }
     ]
   },
   {
@@ -592,7 +592,9 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/1.jpg", caption: "I wouldn't say the piece was uninspired, but maybe a bit lazy. AI created me the original image, I transferred the bits onto the canvas, and then quickly got bored. Homnorable mentions for the volvcano colors, which I know now are not even close in richness and mixture when comparted to the real thing.. I will attempt to do better representing this trip in the coming months (or years, seeing how complex those colors inside the volcano were..damn!)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/2.jpg", caption: "This and the next image...." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/3.jpg", caption: "were created by AI to honor my resquest for having a volcano, penguins as our approximations, a seal, the eclipse and a Northern Light. Yeah, I know.. I didnt stay here, okay? :D" }
     ]
   },
   {
