@@ -834,6 +834,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/1.jpg", caption: "This picture shows how much color and structure I added after the ink was dried. Fun." }
     ]
   },
+/*
   {
     slug: "Meditations5_SZ",
     title: "Meditations 5: SZ",
@@ -852,6 +853,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." }
     ]
   },
+*/
   {
     slug: "Meditations6_H",
     title: "Meditations 6: Hannah",
@@ -1045,18 +1047,18 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/9.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/8.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/2.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/1.jpg", caption: "The foto I used to draw myself in a stylized manner." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/9.jpg", caption: "The face is always the hardest, but I have become more confident, so even imperfect lines and a strange expression is comfortable for now. I truly wish I had that kind of hair :)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/8.jpg", caption: "The mixed media pieces were all brought from paradise - THailand, or better, Koh Phangan. Bringing Dengue will stay a silent observer, outside the scope and focus of this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/7.jpg", caption: "By now, I have accepted that beginnings of images, until about 3/4 done, are usually messy and unpolished, and that weird images usually take cool turns if I give them time." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/6.jpg", caption: "I do love glitter.. :D Don't you? :p." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/5.jpg", caption: "Even unfinished, this piece had even more humble beginnings :D." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/4.jpg", caption: "That nose, tho :D." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/3.jpg", caption: "Scruffy and dis-proportioned, but with a great hand base.." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/2.jpg", caption: "Lines as guidance to draw from the original foto." }
     ]
   },
-/*
+  /*
   {
     slug: "Soldering",
     title: "Soldering",
@@ -1132,7 +1134,7 @@ const ARTWORKS = [
     ]
   },
   {
-    slug: "Update",
+    lug: "Update",
     title: "Update",
     date: "2026-03-02",
     medium: "Acrylic Pens on Paper",
