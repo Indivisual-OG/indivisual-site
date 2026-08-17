@@ -592,9 +592,9 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/1.jpg", caption: "I wouldn't say the piece was uninspired, but maybe a bit lazy. AI created me the original image, I transferred the bits onto the canvas, and then quickly got bored. Homnorable mentions for the volvcano colors, which I know now are not even close in richness and mixture when comparted to the real thing.. I will attempt to do better representing this trip in the coming months (or years, seeing how complex those colors inside the volcano were..damn!)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/1.jpg", caption: "I wouldn't say the piece was uninspired, but maybe a bit lazy. AI created me the original image, I transferred the bits onto the canvas, and then quickly got bored. Homnorable mentions for the volvcano colors, which I know now are not even close in richness and mixture when comparted to the real thing.. I will attempt to do better representing this trip in the coming months - or years, seeing how complex those colors inside the volcano were..damn!" },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/2.jpg", caption: "This and the next image...." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/3.jpg", caption: "were created by AI to honor my resquest for having a volcano, penguins as our approximations, a seal, the eclipse and a Northern Light. Yeah, I know.. I didnt stay here, okay? :D" }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/3.jpg", caption: "were created by AI to honor my resquest for having a volcano, penguins as our approximations, a seal, the eclipse, and Northern Lights. Yeah, I know.. I didnt stay here, okay? :D" }
     ]
   },
   {
