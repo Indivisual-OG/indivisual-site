@@ -863,7 +863,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Process/4.jpg", caption: "This piece is not yet complete, because the connection loosened. Still, she inspired me epugh, I started drawing her." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Process/4.jpg", caption: "This piece is not yet complete, because the connection loosened. Still, she inspired me enough, I started drawing her." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Process/3.jpg", caption: "This grew quirkily, with the shapes changing types of object (question mark to heart, for example)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Process/2.jpg", caption: "At this point it was also somehow a face." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations6_H/Process/1.jpg", caption: "Humble beginnings." }
@@ -928,8 +928,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/2.jpg", caption: "Per usual, UV light is an essential level of painting in the process of creation of each piece. Here, one side is more UV-reactive than the other, given that there is a night and a day side to this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/1.jpg", caption: "When at a Burn, I took residence on one of the comfortable couches in the communal area, and sat there having great conversations all through the night, I was greeted by someone who went to bed late and then got up early with the question if I had been there awake already, or still, the idea of the lounge-y Burning Man camp was born. The idea took some more turns (to being 18+, for example), but it was never implemented because of disagreements among the founding members (or something of that sort :D)..." }
     ]
   },
   {
@@ -981,9 +981,9 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/3.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/1.jpg", caption: "Isn't it truly gorgeous under UV light?." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/2.jpg", caption: "The central shape is the tattoo stencil for Magic I wear on my right ankle, as well as the shape of South Africa for the Roots part. THe two sides represent the multitudes and contrasts and conflicts the recipient carries with what seems like ease, and much grace." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/3.jpg", caption: "I knew I would go this direction early on, which is different from many other pieces I begin, as they change evolve all the time - to a point where my white marker is a true essential asset for the success of any piece." }
     ]
   },
   {
@@ -1138,20 +1138,20 @@ const ARTWORKS = [
     medium: "Acrylic Pens on Paper",
     tags: ["Acrylic", "Pens", "Paper", "completed"],
     description:
-      "Inspired by a track from Puscifer's album Existential Reckoning, this piece acknowledges that people need to withdraw and take time to work on themselves. In these times, they are not open to connect, and this is not an expression of the level of closeness to me - when I painted this, this was a new, surprising lesson to learn. That the person who triggered this was all kinds of imperfect in their relationship to me was something that I tried to not creep into my expression of the experience in this painting.",
+      "Inspired by a track from Puscifer's album Existential Reckoning, this piece acknowledges that people need to withdraw and take time to work on themselves. In these times, they are not open to connect, and this is not an expression of the level of closeness to me.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/9.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/8.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/4a.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/8.jpg", caption: "When I painted this, learning that people can withdraw without breaking connections was a new, surprising lesson to learn. That the person who triggered this was all kinds of imperfect in their relationship to me was something that I tried to not have creep into my expression of the experience in this painting." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/9.jpg", caption: "Feeling I would be done with the subject of this piece soon, I took a short way out and filled open spaces with grey only." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/7.jpg", caption: "I lost my inspiration and motivation for a bit, but came back to finish the piece a few months later." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/6.jpg", caption: "Adding color around was originally intended to help fill the image after all, but I experimented with regional pops and bursts of color." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/5.jpg", caption: "I have the tendency to crowd images and always need to pace myself with too much -fill the blanks- enthusiasm." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/4.jpg", caption: "More combinations were a great exercise and led to much method development." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/4a.jpg", caption: "I adore the combination of these tweo colors in the middle, and noted them for furture reference." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/3.jpg", caption: "I liked working in black at first, and the lyrics from Puscifer were truly fitting as well." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/2.jpg", caption: "First layout emerging." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/1.jpg", caption: "The writing I used in this piece is actually a novel creation that I based on writing samples I had received from the persion who triggered this meditation. Each letter is taken from other art he made and all together turned into this new font. I doubt he realized this when I was working on this art..that's alright, though, and thank you for all the fish :D." }
     ]
   },
   {
@@ -1178,17 +1178,17 @@ const ARTWORKS = [
     slug: "YourLife",
     title: "Your Life",
     date: "2025-06-01",
-    medium: "Acrylic Pens and Paints onto a poster base",
-    tags: ["Acrylic", "Pens", "Paints", "Posterbase", "in progress"],
+    medium: "Acrylic Pens and Paints on a paper poster base",
+    tags: ["Acrylic", "Pens", "Paints", "Paper", "Poster base", "in progress"],
     description:
       "Work in preparation for a potential art exhibit alongside or for an event organized by the amazing, talented, wise, awe-inspiring elin_im_wunderland.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/4.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/1.jpg", caption: "It felt like a cheat to start from this poster already perinted - but the poster became way more cool and fun once I applied my art." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/2.jpg", caption: "I needed to restrain myself from adding too much paint, and tried to enhance the readability using black acrylic pens." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/3.jpg", caption: "I really like how the paints mix at the bottom." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/4.jpg", caption: "A host of ongoing pieces calling my name." }
     ]
   }
 ];
