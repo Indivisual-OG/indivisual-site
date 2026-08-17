@@ -90,8 +90,8 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/4.jpg", caption: "Clean before the final style is added." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/3.jpg", caption: "Underway to being amazing :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/2.jpg", caption: "Early bravery." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/5.jpg", caption: "Source: http://andyamholst.com/2022/02/22/zwei-notenblaetter-2." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/0.jpg", caption: "First steps." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/0.jpg", caption: "First steps." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Aphex/Process/5.jpg", caption: "Source: http://andyamholst.com/2022/02/22/zwei-notenblaetter-2." }
     ]
   },
   {
