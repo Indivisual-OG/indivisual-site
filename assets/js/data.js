@@ -592,8 +592,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/1.jpg", caption: "I wouldn't say the piece was uninspired, but maybe a bit lazy. AI created me the original image, I transferred the bits onto the canvas, and then quickly got bored. Homnorable mentions for the volvcano colors, which I know now are not even close in richness and mixture when comparted to the real thing.. I will attempt to do better representing this trip in the coming months (or years, seeing how complex those colors inside the volcano were..damn!)." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/2.jpg", caption: "This and the next image...." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/1.jpg", caption: "I wouldn't say the piece was uninspired, but maybe a bit lazy. AI created me the original image, I transferred the bits onto the canvas, and then quickly got bored. Homnorable mentions for the volvcano colors, which I know now are not even close in richness and mixture when comparted to the real thing.. I will attempt to do better representing this trip in the coming months (or years, seeing how complex those colors inside the volcano were..damn!)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/2.jpg", caption: "This and the next image...." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Iceland/Process/3.jpg", caption: "were created by AI to honor my resquest for having a volcano, penguins as our approximations, a seal, the eclipse and a Northern Light. Yeah, I know.. I didnt stay here, okay? :D" }
     ]
   },
@@ -668,8 +668,8 @@ const ARTWORKS = [
     cover: ["https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Cover.jpg", "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Cover2.jpg"],
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/2.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/1.jpg", caption: "Seeing with my heart was the intended expression of this piece. I create a serioues of portrasits using Lensa (a brief craze had everyone upload their portraits to the online instance of the softwsre). THe two best ones I used as canvases in Infinite Painter to try and show what it feels likem to now be able to hear my emotions, my heart, and to tap into my softness more and more :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lingua/Process/2.jpg", caption: "I would not give a good representation of myself if I did not also add my mind and its curious, experienced eyes - it is an open gate to wisddom, biut alos a source for distraction from the things and sensations I should pay better attention to." }
     ]
   },
   {
@@ -683,10 +683,10 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/4.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/1.jpg", caption: "One of the original fotos I took of myself one morning when I cried with sadness and anger about the experience and fallout with the person who cause all my confusion and feelings of abandonment and inability to understand why I had deserved the treatment I received from him. Selfies have done a huge deal for my self-image and my confidence, and I try to remember taking pictures also when I am in any other emotional state than happiness. I feel there is strength in vulnerability, and when I heard the sentence that gave the picture its name from this person (spoken in true honesty and unaware of how creepy it is), I knew it would be potent for art." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/2.jpg", caption: "This image would become the canvas for this piece in Infinite Painter, a first and new method for me, alongside the novelty of working with my own image. - I love it when you cry was said after I burst with emotion when me and the person who hurt me so tremendously met to clarify what was going on, and he just said he was working on himself and there was no other way than to hurt me in that process, but that he loved me. When this last bit was said over the noise of a loud vehicle passing, I could not keep my cool demenor. He then whispered "I love it when you cry" and in my head, a switch flipped and I realized, he had both no idea how to treat others, as well as zero care for my heart and that he was the reason I had cried for months without an explanation. My heart hardened a bit, and this bit is one of the biggest parts I accuse him of causeing. It is now open and soft again, but damn, I was angry then." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/3.jpg", caption: "Without the image, this is what I added, and it is very amazone-y. I was a bit shy changing my face, so I kept it at that." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LoveWhenYouCry/Process/4.jpg", caption: "A look at how the interface in Infinite Painter works." }
     ]
   },
   {
@@ -700,11 +700,11 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/5.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/1.jpg", caption: "Wow, 80 years since the discovery of LSD and the first intentional trip in my home town, and at my workplace location. I got excited, and began this design, hoping to gift it to the celebrations. In the end, it was not accepted, and I stopped without adding the neurons the finished piece has to the degreee I had planned, but the meditation was lovely, and I was gratefiul for this time and place to be alive." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/2.jpg", caption: "This was my first dance with digital art, and I learned a ton about the software and how to use my stylus. I loved the chance to undo strokes, and the option to add layers that I could later integrate if I liked how they contributed to the whole image." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/3.jpg", caption: "THe piece grew, and the colors shown here were on a layer I did not keep for the final image." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/4.jpg", caption: "A foto of the tablet and app environment. A neat little art space I can take anywhere :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/LSD80/Process/5.jpg", caption: "I am pretty proud of even having created the background by symmetry and pattern repetition.." }
     ]
   },
   {
@@ -943,7 +943,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Process/1.jpg", caption: "Uh, I got all excited for the spirograph I got from Galaxus.. It is a bit finnicky, but when I manage to pain with a mine from one of the acrylic paints, and do so on a prepared convas covered in neon acrylic paints, a neat, square piece emerges that was drawn in barely a day, and with much satisfaction. The triangles and circles approach is a experience-proven one that looks great in many contexts. I shall play with it more in the future :)" }
     ]
   },
   {
