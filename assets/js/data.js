@@ -137,26 +137,26 @@ const ARTWORKS = [
     slug: "BlissScramble",
     title: "Blissful Scramble",
     date: "2024-08-10",
-    medium: "Acrylic Pens and Paint on Canvas",
+    medium: "Acrylic Pens and Paints on Canvas",
     tags: ["Acrylic", "Pens", "Paints", "Canvas", "completed"],
     description:
       "Inspired by a psychedelic experience at Ozora Festival 2024.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/13.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/12.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/11.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/10.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/9.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/8.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/13.jpg", caption: "The last step is usuallz polishing, meaning, I re-draw black lines and add the black paint framing." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/12.jpg", caption: "White acrylic pens help re-clear any white space (if I left any..hihi) and remove signs of prior, then undeveloped directions the image took." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/11.jpg", caption: "This piece is pretty cool cause it has a texture to it that was created with uncolored relief paste." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/10.jpg", caption: "This piece was inspired by a psychedelic trip experienced at Ozora Festival 2024 during the Dome-opening set by the amazing artis OTT. I felt as if the energy emitted by all things that are catalyzed through my open heart and curious mind and connected me to the universe, like a visit to an old friend who has been your quiet but wise guide all these years. Beautiful and awe-inspiring." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/9.jpg", caption: "The decision to add the paints was one of those brave ones, since it changed the picture quite a bit." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/8.jpg", caption: "Some steps, despite being simple (like the enhancement of the black lines, for example) take a few days to come through as the next best move. This is the reason I like working on several pieces at once - in that way, I can ..procrastinate.. once piece with another, until I know how to proceed." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/7.jpg", caption: "The hair was too boring here, so I worked on it in this step. I cursed having decided for a canvas, rather than paper, because it is a bit unresponsice to the thin-tipped pens..." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/6.jpg", caption: "I knew the piece needed to be square, and symmetrical somehow, and this was the first moment I felt the dynamic nature of the experience, the swirl and catalyst movement was going to be well-represented." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/5.jpg", caption: "At this point, the image was not very inspired yet, and felt too edgy and pointy. From experience, though, I know I just need to give it some time, and that there is always a white pen, and noone watching until I choose to have them." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/4.jpg", caption: "For some reason, the beginnings of this piece were slow, despite the vivid memory and big motivation to draw this experience." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/3.jpg", caption: "The piece was small enough to take it onto a train, and the Swiss public are private and reserved enough to not engage with such a curious activity as someone painting on public transportation." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/2.jpg", caption: "A rough idea was at the humble beginnings of this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BlissScramble/Process/1.jpg", caption: "Special mentions for the start of this process were my acquisitions of gold metalic acrylic markers which I used as my starting point here." }
     ]
   },
   {
@@ -184,18 +184,18 @@ const ARTWORKS = [
     medium: "Acrylic Pens, Paints, and various Pencils and Markers on Paper",
     tags: ["Acrylic", "Pens", "Paints", "Paper", "completed"],
     description:
-      "Ever wonder how art gets created? This one is an example of *from boredom, based on opportunity.* Saw this FB post, liked the pattern (Wave Optic diagram), traced it, fucked around, found out, painted over, liked it. Voilà.",
+      "Ever wonder how art gets created? This one is an example of *from boredom, based on opportunity*. Saw this FB post, liked the pattern (Wave Optic diagram), traced it, fucked around, found out, painted over, liked it. Voilà.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/1a.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/1.jpg", caption: "My inspiration and basis, and a bit of a cheat, cause I could just transfer the pattern - which I had never seen anywhere: apparently, this is called the Wave Optic diagram." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/7.jpg", caption: "Once I added the black paint framing, this piece was completed, and posed a welcome challenge how to display it. It now hangs diagonally on my wall above the fireplace :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/6.jpg", caption: "The use of the acrylic paints is a bit crude and bold, but I like playing with the circular motion of the brush, as well as with the opposition of the chaotic, free-form nature of the paints to the strict lines and dividers-drawn circle, offset and one-sided, offending most of my usually symmetry and harmonious style of drawing." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/5.jpg", caption: "The piece changes quite a bit under different lighting conditions." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/4.jpg", caption: "Once again, my gold markers, here in their first edition, got a place to shine, and I refrained from the urge to draw in-between the circles with other pens or black marker." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/3.jpg", caption: "Before adding the black circle, this piece was not only born from boredom, but also itself was kinda borin, too symettrical and generic. Wanting a sort of focus point, the black circle would not need to be tiny.." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/2.jpg", caption: "My first idea was quickly abandoned, given that the straight lines were..well..too straight and predictable :D" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BordedSymmetry1/Process/1a.jpg", caption: "Getting the diagram onto paper required me to find my dividers and remember some basic geometry lessons..Fun!" }
     ]
   },
   {
@@ -209,8 +209,8 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/2.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/1.jpg", caption: "This is me having fun with my dividers (after buying new pencil mines, as well as some orderly coloring.. I do not know where this will go, so this is in progress, and currently a bit dormant until I find new inspiration. Watch this space :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/2.jpg", caption: "Before removing the helper lines from the dividers selectively to create the symmetry without it all being circles." }
     ]
   },
 /*
@@ -343,7 +343,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage1_Pusheen/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage1_Pusheen/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage1_Pusheen/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Collage1_Pusheen/Process/1.jpg", caption: "One of my earliest pieces - hence, few progress or status images.. I had been collecting collage pieces for ages, in this case, they came from a collector's box for the internet comic Pusheen. The piece was overly cutesy for my own taste, despite me being a total cat person, and was gifted to a younger female friend who loved it :)" }
     ]
   },
   {
@@ -374,11 +374,11 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/2a.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/4.jpg", caption: "The acrylic paints mixed insanely well on this canvas, which adding to it with the poens was a bit cumbersome. I suspect that the conecnt of the image was the true reason for the excess of energy I felt this needed to be drawn.. I was deep down a hole of being ghosted by someone in the worst possible way, betrayed for trust, realizing I had been letting this person mistreating me while watching it happen.. god what a terrible person. Still, when this was done, I felt weird positing it, fearing I could hurt the person who inspired it. Now I feel much stronger actually asking this questions, although I know there is no answer." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/3.jpg", caption: "The piece almost has graffitti vibes, and I will add the method of writing into a mark of paint with acrylic pens for guture pieces, always developing my methodology." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/2.jpg", caption: "Aiming to obscure while being clear was an underlying motivation, screaming out my feelings which had no destination was not a great path to disgetion of the emotion, but it was .. something.." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/2a.jpg", caption: "I took a bunch of status fotos during a short time, so these are similar, but nuances progress, and I reflect back onto how my feelings and experiences of the situation evolved there." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/ConfusionAge/Process/1.jpg", caption: "Don't you also just totally dig the green-turquise-pink-purple of the cedntral word? I was almost afraid to touch it again, for the chance of smudging the perfect composition." }
     ]
   },
 /*
@@ -412,12 +412,12 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/2a.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/2a.jpg", caption: "My second digital, first truly creative tablet-drawn piece. From the orignal, writing out the DJ name, tattoo artis handle, and true name of the recipient, then scrambling and reconstituting the image and then re-connecting the pieces, this took ages and was very satisfying for its invitation to perfect even the smallest details. I tend to draw on several layers - the whole, a region, a small square, and, if applicable, the UV-reactive layers. Here, I could add the pixel level - when zoomed in all the way, one can fill in individual pixels and perfect the line on very macro scales and very micro details." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/5.jpg", caption: "Turning the image into an NFT once I was done meant I could gift some knowledge about cryptoassets and wallet functionality. Despite the short-lived nature of the medium, it was fun finding out about its details." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/4.jpg", caption: "The black frame should never be missed, not even on a digital image :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/3.jpg", caption: "An earlier screenshot from the production level in Infinite Painter, and a long ways off from the final detail-perfection of the finished piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/2.jpg", caption: "Can you spot how the original image was re-constituted, what was rotated and where the bits matched before?." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Elindentity/Process/1.jpg", caption: "The start was simple, but would be a great basis :) I should repeat the excercise of drawin, cutting apart and then reassembling on a physical art piece..mhhh..Watch that space :)" }
     ]
   },
   {
@@ -431,9 +431,9 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/3.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/1.jpg", caption: "Ink is a great medium, and always leave a surprise in terms of the beginning sof an art piece. I opted against the obvious tree-representation, and used the low lighting level at the event to create some depth and dimensionality to the ink." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/2.jpg", caption: "Having a pleasant conversation nwith the person who would receive the image meant this was more of a doodle, than intense art creation. Additionally, I did not have my usual pens, and didnt quite likje the event I attended.. For those conditions, this is a'ight :D" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Eukel/Process/3.jpg", caption: "The paper was rather interesting, and the ink as it was a great practice invite for dimensionality and imaginative thinking." }
     ]
   },
 /*
