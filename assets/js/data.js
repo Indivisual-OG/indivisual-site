@@ -405,7 +405,7 @@ const ARTWORKS = [
   {
     slug: "Elindentity",
     title: "Elindentity",
-    date: "2025-03-01",
+    date: "2025-06-01",
     medium: "Digital Art created using Infinite Painter on a Samsung Galaxy Tab8, turned into an NFT",
     tags: ["Digital", "Handdrawn", "Samsung Tablet", "completed", "gifted"],
     description:
@@ -521,7 +521,7 @@ const ARTWORKS = [
   {
     slug: "Furniture1_Vortex",
     title: "Furniture 1 - Vortex",
-    date: "2026-01-09",
+    date: "2025-01-09",
     medium: "Acrylic Paints on Wood",
     tags: ["Acrylic", "Paints", "Wood", "completed"],
     description:
@@ -535,7 +535,7 @@ const ARTWORKS = [
   {
     slug: "Furtniture2",
     title: "Furniture 2 - Little Blue Cupboard",
-    date: "2026-01-02",
+    date: "2025-12-02",
     medium: "Acrylic Paints on Wood",
     tags: ["Acrylic", "Paints", "Wood", "completed"],
     description:
@@ -571,7 +571,7 @@ const ARTWORKS = [
   {
     slug: "Heart",
     title: "Heart",
-    date: "2026-03-02",
+    date: "2022-11-02",
     medium: "Digital Art handdrawn in Infinite Painter on my Samsung Galaxy Tab S8",
     tags: ["Digital", "Handdrawn", "Samsung Tablet", "completed"],
     description:
@@ -585,7 +585,7 @@ const ARTWORKS = [
   {
     slug: "Iceland",
     title: "Iceland",
-    date: "2026-02-02",
+    date: "2026-02-11",
     medium: "Acrylic Pens and Paints on canvas, inspired by AI-derived Art",
     tags: ["Acrylic", "Pens", "Paints", "Canvas", "AI", "abandoned/discontinued"],
     description:
@@ -875,7 +875,7 @@ const ARTWORKS = [
   {
     slug: "Meditations7_L",
     title: "Meditations 7: Leo",
-    date: "2026-03-01",
+    date: "2026-04-01",
     medium: "Acrylic Pens on Paper",
     tags: ["Acrylic", "Pens", "Paper", "completed", "gifted"],
     description:
@@ -892,7 +892,7 @@ const ARTWORKS = [
   {
     slug: "Meditations8_Dad",
     title: "Meditations 8: Dad",
-    date: "2026-03-02",
+    date: "2024-09-30",
     medium: "Acrylic Pens and Paints on Canvas",
     tags: ["Acrylic", "Pens", "Paints", "Canvas", "completed", "gifted"],
     description:
@@ -1137,7 +1137,7 @@ const ARTWORKS = [
   {
     slug: "Update",
     title: "Update",
-    date: "2026-03-02",
+    date: "2024-07-22",
     medium: "Acrylic Pens on Paper",
     tags: ["Acrylic", "Pens", "Paper", "completed"],
     description:
