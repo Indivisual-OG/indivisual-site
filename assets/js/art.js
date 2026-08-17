@@ -52,7 +52,6 @@
         <p class="description">${art.description || ""}</p>
         <div class="tags">${tags}</div>
         <a class="instagram-link" href="https://www.instagram.com/artbyindivisual/" target="_blank" rel="noopener">
-          Also find me on Instagram
         </a>
       </div>
     </section>
