@@ -718,13 +718,13 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/1.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/7.jpg", caption: "I liked the 3D impressions of the bubbles, and noted them for future use and expansion of the method." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/6.jpg", caption: "Rewriting over and over, while keeping the borders with high contrast needs much motivation, which is why I would only give this special treatment to special music and my most dear-hearted lyrics." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/5.jpg", caption: "Working with gold this time, I noted that it suited the elegance and complexity of the content well." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/4.jpg", caption: "I realized that the left borded was quite prominent and would need to receive special attention to be straight." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/3.jpg", caption: "I slowly moved through the lyrics, and added little bits and pieces everywhere." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/2.jpg", caption: "Enhancing the black writing and adding careful initial pops of color, I realized, this piece would need a delicate hand." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/1.jpg", caption: "Writing out the poem-like lyrics, they, too are quite long and intricate - and barely fit the page." }
     ]
   },
   {
@@ -738,18 +738,18 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/1.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/2.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/3.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/4.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/5.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/6.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/7.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/8.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/9.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/10.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/11.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/12.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/1.jpg", caption: "Removing the double title and once more giving contrast to the writing by refining the black borders finalized the piece. THe black paint frame was enhanced with some neon ink." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/2.jpg", caption: "The double title writing up top was a remnant of my ovverboarding excitement for the track, and fromlistening to it over an over at the start of painting this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/3.jpg", caption: "Learning from the piece with Schplomi, I ended up filling in the letter with the multiple colors as I had done for his round piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/4.jpg", caption: "With all black bordering of the letters done, they were quite bold, and not easy to decipher from afar." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/5.jpg", caption: "This detail pic shows the fine black bordering of the letters, greatly enhancing contrast and legibility." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/6.jpg", caption: "Hence - I brought back the silver, this time as a font." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/7.jpg", caption: "Filling the page, I rewrote in dark black, loosing more clarity in the lettering." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/8.jpg", caption: "I had to rewrite the text again and again, but the fire made good pervasive progress in this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/9.jpg", caption: "So..I added fire :D." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/10.jpg", caption: "I do adore this song with passion, though, so while elegant and dark, these lyrics needed fire..." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/11.jpg", caption: "Starting with silver paint was a new approach I quite liked, it kept the piece cool and dry to start with...." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/12.jpg", caption: "Writing out the text, I realized, it was longer than I though, and space (and legibility!) was going to be an issue." }
      ]
   },
   {
