@@ -879,7 +879,7 @@ const ARTWORKS = [
     medium: "Acrylic Pens on Paper",
     tags: ["Acrylic", "Pens", "Paper", "completed", "gifted"],
     description:
-      "This piece was a birth gift to the son of a colleague, and therefore was a special case of the meditations, because I envisioned what he would become, instead of what I know about him.",
+      "This piece was a birth gift to the son of a colleague and therefore was a special case of the meditations because I envisioned what he would become,instead of what I know about him.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/thumb.jpg",
     process: [
@@ -900,7 +900,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Process/1.jpg", caption: "When my dad went into retirement, I felt inspired to reflect on what my perception had been of his work life. My father was, and still is a true role model to me when it comes to work perspectives, when it comes to living true to your decided values, to taking pride in your path without arrogance, and in for loyal devotion and commitment to family. His status at the end of his work career was my goal and destination for a long time, until my path diverged and I worked on difficulties he seemingly had not encountered (like trouble with inconsequent, incompetent, and incorrect leadership and authority - he bowed to this type of issue much better than I ever did or ever will). Huge respect, and I love you, Dad." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations8_Dad/Process/1.jpg", caption: "When my dad went into retirement, I felt inspired to reflect on what my perception had been of his work life. My father was, and still is, a true role model to me when it comes to work perspectives, when it comes to living true to your decided values, to taking pride in your path without arrogance, and in for loyal devotion and commitment to family. His status at the end of his work career was my goal and destination for a long time, until my path diverged and I worked on difficulties he seemingly had not encountered (like trouble with inconsequent, incompetent, and incorrect leadership and authority - he bowed to this type of issue much better than I ever did or ever will). Huge respect, and I love you, Dad." }
     ]
   },
   {
@@ -914,7 +914,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/1.jpg", caption: "The piece was supposed to be the logo of the Muchness Inc webshop on Etsy a friend-at-the-time and me had planned. I got all excited, and created this image - using an AI-generated image of a bower bird wearing a crown, placed into Infinite Painted on my tablet and then stylized and filled in. Given that the bower bird creates peculiar nests out of blue things, we felt it was a great representation of our peculiar planned shop. The shop never really happened, and the friendship broke, but the image remains cool and my creation." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/1.jpg", caption: "The piece was supposed to be the logo of the Muchness Inc webshop on Etsy a friend-at-the-time and I had planned. I got all excited and created this image - using an AI-generated image of a bower bird wearing a crown, placed into Infinite Painter on my tablet and then stylized and filled in. Given that the bower bird creates peculiar nests out of blue things, we felt it was a great representation of our peculiar planned shop. The shop never really happened, and the friendship broke, but the image remains cool and my creation." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/2.jpg", caption: "The original AI image in Infinite Painter, showing the layers feature." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/3.jpg", caption: "Drawing over the picture to create the comic look." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/MuchnessInc/Process/4.jpg", caption: "Initial additions with the base layer of the AI image switched off in Infinite Painter." }
@@ -932,7 +932,7 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/2.jpg", caption: "Per usual, UV light is an essential level of painting in the process of creation of each piece. Here, one side is more UV-reactive than the other, given that there is a night and a day side to this piece." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/1.jpg", caption: "When at a Burn, I took residence on one of the comfortable couches in the communal area, and sat there having great conversations all through the night, I was greeted by someone who went to bed late and then got up early with the question if I had been there awake already, or still, the idea of the lounge-y Burning Man camp was born. The idea took some more turns (to being 18+, for example), but it was never implemented because of disagreements among the founding members (or something of that sort :D)..." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NathaliesLounge/Process/1.jpg", caption: "When at a Burn, I took residence on one of the comfortable couches in the communal area and sat there having great conversations all through the night. I was greeted by someone who went to bed late and then got up early with the question if I had been there awake already or still - The idea of the lounge-y Burning Man camp was born. The idea took some more turns (to being 18+, for example), but it was never implemented because of disagreements among the founding members (or something of that sort :D)..." }
     ]
   },
   {
@@ -946,7 +946,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Process/1.jpg", caption: "Uh, I got all excited for the spirograph I got from Galaxus.. It is a bit finnicky, but when I managed to pain with a tip from one of the acrylic paints, and do so on a prepared canvas covered in neon acrylic paints, a neat, square piece emerges that was drawn in barely a day, and with much satisfaction. The triangles and circles approach is a experience-proven one that looks great in many contexts. I shall play with it more in the future :)" }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/NeonSpiro/Process/1.jpg", caption: "Uh, I got all excited for the spirograph I got from Galaxus.. It is a bit finicky, but when I managed to paint with a tip from one of the acrylic pens and do so on a prepared canvas covered in neon acrylic paints, a neat, square piece emerges that was drawn in barely a day, and with much satisfaction. The triangles and circles approach is an experience-proven one that looks great in many contexts. I shall play with it more in the future :)" }
     ]
   },
   {
@@ -960,17 +960,17 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/8.jpg", caption: "In case you want to try too, here are the instructions for these origiami flowers (cheating your way through using glue)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/8.jpg", caption: "In case you want to try too, here are the instructions for these Origami flowers (cheating your way through using glue)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/7.jpg", caption: "When using the right paper, these flowers beautifully satisfy my need for UV-reactive pieces :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/6.jpg", caption: "They have been placed on desks of friends all through the world." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/5.jpg", caption: "Some good planning of the paper will result in beautiful shaped backsides, too." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/5.jpg", caption: "Some good planning of the paper will result in beautifully shaped backsides, too." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/5b.jpg", caption: "Even small sizes are possible (although they are not much faster to fold)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/4.jpg", caption: "When folded with care, they are very symmetrical and shapely." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/3.jpg", caption: "Connecting several basis flowers, beautiful symmetrical, and even fractal pieces are possible." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/2.jpg", caption: "A triple is a common gift-away level, especially since this shape rests stably on even surfaces." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1.jpg", caption: "Some insight into the process of creating these shows that strategic clips and the right glue do wonders in how long these last." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1b.jpg", caption: "Individual pieces get glued first, to later be joined to the individual flower level." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1a.jpg", caption: "The steps to creating origami flowers can be separated in time, for example by cutting and making individual sub-pieces in one step and then leaving a break for the glue drying and the hands resetting :) Enjoy!." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/1a.jpg", caption: "The steps to creating origami flowers can be separated in time, for example, by cutting and making individual sub-pieces in one step and then leaving a break for the glue drying and the hands resetting :) Enjoy!." }
     ]
   },
   {
@@ -985,8 +985,8 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/1.jpg", caption: "Isn't it truly gorgeous under UV light?." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/2.jpg", caption: "The central shape is the tattoo stencil for Magic I wear on my right ankle, as well as the shape of South Africa for the Roots part. THe two sides represent the multitudes and contrasts and conflicts the recipient carries with what seems like ease, and much grace." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/3.jpg", caption: "I knew I would go this direction early on, which is different from many other pieces I begin, as they change evolve all the time - to a point where my white marker is a true essential asset for the success of any piece." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/2.jpg", caption: "The central shape is the tattoo stencil for Magic I wear on my right ankle, as well as the shape of South Africa for the Roots part. The two sides represent the multitudes and contrasts and conflicts the recipient carries with what seems like ease and much grace." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Roots/Process/3.jpg", caption: "I knew I would go this direction early on, which is different from many other pieces I begin, as they change and evolve all the time - to a point where my white marker is a true essential asset for the success of any piece." }
     ]
   },
   {
@@ -1001,18 +1001,18 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/1.jpg", caption: "The round canvas with the Travel poem was a gift to the author, the side-by-side version with the Magician's Oath was kept for me. I wrote both pieces so often, I kept repeating the words along in my head. It was a challenge to get in all on the circle, but in the end it turned out quite stunning." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/1b.jpg", caption: "The one side of the side-by-side sister piece. I created this to give the author of the lyrics the choice which representation of his art he liked better." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/1b.jpg", caption: "The one side of the side-by-side sister piece. I created this to give the author of the lyrics the choice of which representation of his art he liked better." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/1c.jpg", caption: "The other side of the side-by-side piece." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/2.jpg", caption: "The background on this circle piece went through many iterations and thus turned out as complex as this." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/2a.jpg", caption: "The challenge of the side-by-side pieces was to keep th small writing legible, while still enhancing the writing." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/2a.jpg", caption: "The challenge of the side-by-side pieces was to keep the small writing legible while still enhancing the writing." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/3.jpg", caption: "After the initial silver font, I decided to adapt the writing to the color scheme, but make the contrast higher by circling all letters with black pen ink." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/3a.jpg", caption: "The side-by-side piece was quickly covered in this way, but the writing lacked making an impression (in its design, not content), so it needed enhancement, too." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/4.jpg", caption: "The silver font was gorgeous, but too sharp in its contrast." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/4a.jpg", caption: "I liked the Travel poem better, having heard it recited by the author at a Burn the year prior - so it was my starting point and initial focus. The Magician's Oath is deeper and more complex than the Travel poem, but no less amazing and eloquent." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/5.jpg", caption: "The colors became darker and richer with each intervention." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/5a.jpg", caption: "Difference between the already advanced work on the Travel poem, to the virgin Magician's Oath poem." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/6.jpg", caption: "Half silver half black on the way to the silver font." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/7.jpg", caption: "I also liked it with black font, but legibility was low." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/5a.jpg", caption: "Difference between the already advanced work on the Travel poem and the virgin Magician's Oath poem." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/6.jpg", caption: "Half silver, half black on the way to the silver font." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/7.jpg", caption: "I also liked it with a black font, but legibility was low." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/8.jpg", caption: "First status picture after applying all the color :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/9.jpg", caption: "Humble beginnings of the round piece." }
     ]
@@ -1048,15 +1048,15 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/1.jpg", caption: "The foto I used to draw myself in a stylized manner." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/9.jpg", caption: "The face is always the hardest, but I have become more confident, so even imperfect lines and a strange expression is comfortable for now. I truly wish I had that kind of hair :)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/1.jpg", caption: "The photo I used to draw myself in a stylized manner." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/9.jpg", caption: "The face is always the hardest, but I have become more confident, so even imperfect lines and a strange expression are comfortable for now. I truly wish I had that kind of hair :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/8.jpg", caption: "The mixed media pieces were all brought from paradise - Thailand, or better, Koh Phangan. Bringing Dengue will stay a silent observer, outside the scope and focus of this piece." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/7.jpg", caption: "By now, I have accepted that beginnings of images, until about 3/4 done, are usually messy and unpolished, and that weird images usually take cool turns if I give them time." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/6.jpg", caption: "I do love glitter.. :D Don't you? :p." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/5.jpg", caption: "Even unfinished, this piece had even more humble beginnings :D." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/4.jpg", caption: "That nose, tho :D." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/3.jpg", caption: "Scruffy and dis-proportioned, but with a great hand base.." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/2.jpg", caption: "Lines as guidance to draw from the original foto." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/2.jpg", caption: "Lines as guidance to draw from the original photo." }
     ]
   },
   /*
@@ -1094,11 +1094,11 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/13.jpg", caption: "The first half of the original stencil, placed as a tattoo on my left shoulder by Weltenwechsel Tattoos (<3), representing my *Madness/Artificial/Worldly/Technical/Mathematical* side." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/12.jpg", caption: "The second half of the original stencil, placed as a tattoo on my right shoulder, representing my *Magic/Organis/Natural/Spiritual/Artistic/Hedonistic/Animalistic* side.." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/11.jpg", caption: "This piece received special attention with regard to its UV-light reactivity - I guess it shows :)." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/10.jpg", caption: "The piece went through many steps and evolution, and was fun to paint each step of the way." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/9.jpg", caption: "I explored more of the perspective-drawing part I tried in the Treedom piece, and added lines converging in one place." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/10.jpg", caption: "The piece went through many steps and evolution and was fun to paint each step of the way." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/9.jpg", caption: "I explored more of the perspective-drawing part I tried in the Treedom piece and added lines converging in one place." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/8.jpg", caption: "Once I made the decision to go bold and indeed as colorful as I could, the piece bloomed like a beautiful flower." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/7.jpg", caption: "The collage pieces would later disappear in the background, but I liked crossing over media in this way." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/6.jpg", caption: "I started off with a representation of the stencil (a bit reduced in size) and added symbols for biology and art, natural processes and geometry." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/6.jpg", caption: "I started off with a representation of the stencil (a bit reduced in size) and added symbols for biology and art, natural processes, and geometry." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/5.jpg", caption: "Flower of life onsets made way to focal point shapes." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/4.jpg", caption: "It was then filled in with organic shapes." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/3.jpg", caption: "Geometry crept in first." },
@@ -1117,19 +1117,19 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/1.jpg", caption: "Inspiration to this piece: Starry Night." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/2.jpg", caption: "Inspiration to this piece: My living room in Basel." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/3.jpg", caption: "Inspiration to this piece: Monk by the Sea (Moench am Meer)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/1.jpg", caption: "Inspiration for this piece: Starry Night." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/2.jpg", caption: "Inspiration for this piece: My living room in Basel." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/3.jpg", caption: "Inspiration for this piece: Monk by the Sea (Moench am Meer)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/1a.jpg", caption: "Once more gorgeous under UV-light conditions." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/14.jpg", caption: "Originally envisioned as the universe the person was gazing at, it turned into a tree with the person at its core and roots of things they carry along.. The tricky bit introducing the breaks and prolonging the painting time was the use of oil paints (which in regular air will take 15 days to dry properly). This resulted in me losing interest for a while and moving on with something else a few times. The piece changed many times during its creation, but I'm very happy with it now." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/13.jpg", caption: "The base for the sitting person in the tree stem changed a lot over the period of creation (almost 2 years). I wanted to show my roots, being Germany, my cats which used to represent the concept of Home to me, polyamory, and more, but it felt awkward and too simple. I weas in awe with the color mixtures already here.." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/13.jpg", caption: "The base for the sitting person in the tree stem changed a lot over the period of creation (almost 2 years). I wanted to show my roots, being Germany, my cats, which used to represent the concept of Home to me, polyamory, and more, but it felt awkward and too simple. I was in awe with the color mixtures already here.." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/12.jpg", caption: "The jump into wild colors and reworking the floor was brave, but not reckless, and much of it motivated by having to wait for the oil colors to dry." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/11.jpg", caption: "Here a originally envisioned sky slowly became a tree, incorporating the meditating person sitting in what is still a bit unassuming window frame lines." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/10.jpg", caption: "When I pulled off the tape that protected the window frame lines, I noted it had woerked well, but neederd more polishing." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/9.jpg", caption: "Window lines still covered, the roots starting to grow more menacing I realized this image would evolve to be different than I had planned. Permitting and even embracing this to happen has been my key to the joy of drawing from the start - I can never satisfy the image I have in my head to be floating onto the paper or canvas using my hand as the medium - but if I let both, the piece and my mental image and expectations evolve, it all becomes beautiful and organic." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/8.jpg", caption: "I uncovered the lines to early and reapplied the tape again later. I still tried sticking with my idea of the sky as the focus point here." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/7.jpg", caption: "My first time drawing a person, felt uneasy and like it would go wrrong easily." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/6.jpg", caption: "Starry night is still more represented here, and the tape helped me savior my beautiful, true-to-perspective window lines here." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/10.jpg", caption: "When I pulled off the tape that protected the window frame lines, I noted it had worked well but needed more polishing." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/9.jpg", caption: "Window lines still covered, the roots starting to grow more menacing, I realized this image would evolve to be different than I had planned. Permitting and even embracing this to happen has been my key to the joy of drawing from the start - I can never satisfy the image I have in my head to be floating onto the paper or canvas using my hand as the medium - but if I let both the piece and my mental image and expectations evolve, it all becomes beautiful and organic." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/8.jpg", caption: "I uncovered the lines too early and reapplied the tape again later. I still tried sticking with my idea of the sky as the focus point here." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/7.jpg", caption: "My first time drawing a person, felt uneasy and like it would go wrong easily." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/6.jpg", caption: "Starry night is still more represented here, and the tape helped me savor my beautiful, true-to-perspective window lines here." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/5.jpg", caption: "Humbly extending the colored regions." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Treedom/Process/4.jpg", caption: "Beginnings were joyous, thos oil paints were a bitch, but they stayed beautifully mixed, yet separated when dry." }
     ]
@@ -1147,14 +1147,14 @@ const ARTWORKS = [
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/8.jpg", caption: "When I painted this, learning that people can withdraw without breaking connections was a new, surprising lesson to learn. That the person who triggered this was all kinds of imperfect in their relationship to me was something that I tried to not have creep into my expression of the experience in this painting." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/9.jpg", caption: "Feeling I would be done with the subject of this piece soon, I took a short way out and filled open spaces with grey only." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/7.jpg", caption: "I lost my inspiration and motivation for a bit, but came back to finish the piece a few months later." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/7.jpg", caption: "I lost my inspiration and motivation for a bit but came back to finish the piece a few months later." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/6.jpg", caption: "Adding color around was originally intended to help fill the image after all, but I experimented with regional pops and bursts of color." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/5.jpg", caption: "I have the tendency to crowd images and always need to pace myself with too much -fill the blanks- enthusiasm." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/4.jpg", caption: "More combinations were a great exercise and led to much method development." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/4a.jpg", caption: "I adore the combination of these tweo colors in the middle, and noted them for furture reference." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/4a.jpg", caption: "I adore the combination of these two colors in the middle and noted them for future reference." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/3.jpg", caption: "I liked working in black at first, and the lyrics from Puscifer were truly fitting as well." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/2.jpg", caption: "First layout emerging." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/1.jpg", caption: "The writing I used in this piece is actually a novel creation that I based on writing samples I had received from the persion who triggered this meditation. Each letter is taken from other art he made and all together turned into this new font. I doubt he realized this when I was working on this art..that's alright, though, and thank you for all the fish :D." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Update/Process/1.jpg", caption: "The writing I used in this piece is actually a novel creation that I based on writing samples I had received from the person who triggered this meditation. Each letter is taken from other art he made and altogether turned into this new font. I doubt he realized this when I was working on this art..that's alright, though, and thank you for all the fish :D." }
     ]
   },
   {
@@ -1169,12 +1169,12 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/5.jpg", caption: "This piece expresses fury and anger with a situation that developed when I invited my friend-at-the-time to Las Vegas and the Grand Canyon for my birthday in 2022, which became a showcase for that friend when my male friend from San Diego joined us." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/4.jpg", caption: "I did not yet know how to exert boundaries, and I felt I was indepted to the friend I invited, because she helped me greatly in overcoming a disastrous abusive relationship to a narcicisstic ex, listening to me not learning from his mistreatments over and over again. Shaping our relationship as the person who needs help on my part and the provider of care and guidance on her part, we took this dynamic on that trip, where she fully stepped into the receiving role, having me pay for all costs, and then taking center stage to show off to the others in my birthday party trip to the Grand Canyon. Unable to stand my ground, I was miserable. I was ready to step into my power after this trip, and when I asked her to reexamine our dynamics, our connection broke badly. Here, then, I hung her bunny, and placed a smudge, smiling cat into the center of the image. This cat, held hostage by her in the aftermath of our falling out definitely did not get a great position in all this, but she definitely did in this image." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/6.jpg", caption: "I have not finished this piece (yet), feeling weird about airing all this out on Instagram or the like. I do it here, because much time has passed, and this piece definitely needs some explanations. We will see if I will finish the picture in the near future, or whether the energy is lost and old, and dusty, anyway.." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/7.jpg", caption: "Before covering it all with paints, essentially to hide and obscure the content, the mixed media pieces stuck to the canvas visible were all souveniers and meorabilia from the trip  was expressing fury and anger with a situation that developed when I invited my friend-at-the-time to Las Vegas and the Grand Canyon for my birthday in 2022. The mixed media pieces stuck to the canvas are all souveniers and meorabilia from that trip which because a showcase for the friend I invited when my make friend from San Diego joined us." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/3.jpg", caption: "I considered long and hard about the bunny, and had not yet added it here." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/4.jpg", caption: "I did not yet know how to exert boundaries, and I felt I was indebted to the friend I invited because she helped me greatly in overcoming a disastrous abusive relationship with a narcissistic ex, listening to me not learning from his mistreatments over and over again. Shaping our relationship as the person who needs help on my part and the provider of care and guidance on her part, we took this dynamic on that trip, where she fully stepped into the receiving role, having me pay for all costs, and then taking center stage to show off to the others in my birthday party trip to the Grand Canyon. Unable to stand my ground, I was miserable. I was ready to step into my power after this trip, and when I asked her to reexamine our dynamics, our connection broke badly. Here, then, I hung her bunny and placed a smudge, smiling cat into the center of the image. This cat, held hostage by her in the aftermath of our falling out, definitely did not get a great position in all this, but she definitely did in this image." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/6.jpg", caption: "I have not finished this piece (yet), feeling weird about airing all this out on Instagram or the like. I do it here because much time has passed, and this piece definitely needs some explanations. We will see if I will finish the picture in the near future or whether the energy is lost and old and dusty, anyway.." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/7.jpg", caption: "Before covering it all with paints, essentially to hide and obscure the content, the mixed media pieces stuck to the canvas visible were all souvenirs and memorabilia from the trip." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/3.jpg", caption: "I considered long and hard about the bunny and had not yet added it here." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/2.jpg", caption: "Looking back at the steps, drawing and building this piece helped catalyze a lot of the insights I described above. At its humble beginnings, the piece was mostly a way to commemorate the trip itself." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/1.jpg", caption: "Unobfuscated images of people involved, and unaltered memorabilia are visible at this early stage." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Vegas/Process/1.jpg", caption: "Unobfuscated images of people involved and unaltered memorabilia are visible at this early stage." }
     ]
   },
   {
@@ -1189,7 +1189,7 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/1.jpg", caption: "It felt like a cheat to start from this poster already perinted - but the poster became way more cool and fun once I applied my art." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/2.jpg", caption: "I needed to restrain myself from adding too much paint, and tried to enhance the readability using black acrylic pens." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/2.jpg", caption: "I needed to restrain myself from adding too much paint and tried to enhance the readability using black acrylic pens." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/3.jpg", caption: "I really like how the paints mix at the bottom." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/YourLife/Process/4.jpg", caption: "A host of ongoing pieces calling my name." }
     ]
