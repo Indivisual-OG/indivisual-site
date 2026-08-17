@@ -721,7 +721,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/7.jpg", caption: "I liked the 3D impressions of the bubbles, and noted them for future use and expansion of the method." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/6.jpg", caption: "Rewriting over and over, while keeping the borders with high contrast needs much motivation, which is why I would only give this special treatment to special music and my most dear-hearted lyrics." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/5.jpg", caption: "Working with gold this time, I noted that it suited the elegance and complexity of the content well." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/4.jpg", caption: "I realized that the left borded was quite prominent and would need to receive special attention to be straight." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/4.jpg", caption: "I realized that the left border was quite prominent and would need to receive special attention to be straight." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/3.jpg", caption: "I slowly moved through the lyrics, and added little bits and pieces everywhere." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/2.jpg", caption: "Enhancing the black writing and adding careful initial pops of color, I realized, this piece would need a delicate hand." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics1_Peng/Process/1.jpg", caption: "Writing out the poem-like lyrics, they, too are quite long and intricate - and barely fit the page." }
@@ -738,7 +738,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/1.jpg", caption: "Removing the double title and once more giving contrast to the writing by refining the black borders finalized the piece. THe black paint frame was enhanced with some neon ink." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/1.jpg", caption: "Removing the double title and once more giving contrast to the writing by refining the black borders finalized the piece. The black paint frame was enhanced with some neon ink." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/2.jpg", caption: "The double title writing up top was a remnant of my ovverboarding excitement for the track, and fromlistening to it over an over at the start of painting this piece." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/3.jpg", caption: "Learning from the piece with Schplomi, I ended up filling in the letter with the multiple colors as I had done for his round piece." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/4.jpg", caption: "With all black bordering of the letters done, they were quite bold, and not easy to decipher from afar." },
@@ -767,9 +767,9 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/2.jpg", caption: "Before moisture entered the game..It was boring and generic. Not a good representation of this fantastic musical piece it was supposed to be a tribute to." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/3.jpg", caption: "The image progressed, but I felt uninspired and often diverted my attention to other ongoing pieces. A meditation on music such as this should be invigorating and exciting, so this was doomed from the start." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/4.jpg", caption: "I feel like the choice of lyrics added and how they are arranged were what began the trouble I had with this piece from the start." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/5.jpg", caption: "THe color mixing level was good, though, and could have evolved." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/5.jpg", caption: "The color mixing level was good, though, and could have evolved." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/6.jpg", caption: "Jumping off from simple into complex color schemes is a constant joy and luxury :D." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/7.jpg", caption: "THe green-yellow is a good experiment that worked out well and may inform other pieces :)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/7.jpg", caption: "The green-yellow is a good experiment that worked out well and may inform other pieces :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/8.jpg", caption: "Humble beginnings, unsure where to head to express my connection to this track from Puscifer - Maynard telling me that everything's going to be alright was a true anker during Corona, for example." }
      ]
   },
@@ -1005,9 +1005,9 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/2.jpg", caption: "The background on this circle piece went through many iterations and thus turned out as complex as this." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/2a.jpg", caption: "The challenge of the side-by-side pieces was to keep th small writing legible, while still enhancing the writing." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/3.jpg", caption: "After the initial silver font, I decided to adapt the writing to the color scheme, but make the contrast higher by circling all letters with black pen ink." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/3a.jpg", caption: "THe side-by-side piece was quickly covered in this way, but the writing lacked making an impression (in its design, not content), so it needed enhancement, too." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/3a.jpg", caption: "The side-by-side piece was quickly covered in this way, but the writing lacked making an impression (in its design, not content), so it needed enhancement, too." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/4.jpg", caption: "The silver font was gorgeous, but too sharp in its contrast." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/4a.jpg", caption: "I liked the Travel poem better, having heard it recited by the author at a Burn the year prior - so it was my starting point and initial focus. THe Magician's Oath is deeper and more complex than the Travel poem, but no less amazing and eloquent." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/4a.jpg", caption: "I liked the Travel poem better, having heard it recited by the author at a Burn the year prior - so it was my starting point and initial focus. The Magician's Oath is deeper and more complex than the Travel poem, but no less amazing and eloquent." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/5.jpg", caption: "The colors became darker and richer with each intervention." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/5a.jpg", caption: "Difference between the already advanced work on the Travel poem, to the virgin Magician's Oath poem." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Schplomi_Collab/Process/6.jpg", caption: "Half silver half black on the way to the silver font." },
@@ -1049,7 +1049,7 @@ const ARTWORKS = [
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/1.jpg", caption: "The foto I used to draw myself in a stylized manner." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/9.jpg", caption: "The face is always the hardest, but I have become more confident, so even imperfect lines and a strange expression is comfortable for now. I truly wish I had that kind of hair :)." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/8.jpg", caption: "The mixed media pieces were all brought from paradise - THailand, or better, Koh Phangan. Bringing Dengue will stay a silent observer, outside the scope and focus of this piece." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/8.jpg", caption: "The mixed media pieces were all brought from paradise - Thailand, or better, Koh Phangan. Bringing Dengue will stay a silent observer, outside the scope and focus of this piece." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/7.jpg", caption: "By now, I have accepted that beginnings of images, until about 3/4 done, are usually messy and unpolished, and that weird images usually take cool turns if I give them time." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/6.jpg", caption: "I do love glitter.. :D Don't you? :p." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/SliceofParadise/Process/5.jpg", caption: "Even unfinished, this piece had even more humble beginnings :D." },
@@ -1096,8 +1096,8 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/10.jpg", caption: "The piece went through many steps and evolution, and was fun to paint each step of the way." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/9.jpg", caption: "I explored more of the perspective-drawing part I tried in the Treedom piece, and added lines converging in one place." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/8.jpg", caption: "Once I made the decision to go bold and indeed as colorful as I could, the piece bloomed like a beautiful flower." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/7.jpg", caption: "THhe collage pieces would later disappear in the background, but I liked crossing over media in this way." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/6.jpg", caption: "I started off with a representation of the stencil (a bit reduced in size) and added symbold for biology and art, natural processes and geometry." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/7.jpg", caption: "The collage pieces would later disappear in the background, but I liked crossing over media in this way." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/6.jpg", caption: "I started off with a representation of the stencil (a bit reduced in size) and added symbols for biology and art, natural processes and geometry." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/5.jpg", caption: "Flower of life onsets made way to focal point shapes." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/4.jpg", caption: "It was then filled in with organic shapes." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/TattooMagic/Process/3.jpg", caption: "Geometry crept in first." },
@@ -1134,7 +1134,7 @@ const ARTWORKS = [
     ]
   },
   {
-    lug: "Update",
+    slug: "Update",
     title: "Update",
     date: "2026-03-02",
     medium: "Acrylic Pens on Paper",
