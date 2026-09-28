@@ -751,7 +751,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/10.jpg", caption: "I do adore this song with passion, though, so while elegant and dark, these lyrics needed fire..." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/11.jpg", caption: "Starting with silver paint was a new approach I quite liked, it kept the piece cool and dry to start with...." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics2_Tool/Process/12.jpg", caption: "Writing out the text, I realized it was longer than I thought, and space (and legibility!) was going to be an issue." }
-     ]
+    ]
   },
   {
     slug: "Lyrics3_Puscifer",
@@ -772,7 +772,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/6.jpg", caption: "Jumping off from simple into complex color schemes is a constant joy and luxury :D." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/7.jpg", caption: "The green-yellow is a good experiment that worked out well and may inform other pieces :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Lyrics3_Puscifer/Process/8.jpg", caption: "Humble beginnings, unsure where to head to express my connection to this track from Puscifer - Maynard telling me that everything's going to be alright was a true anker during Corona, for example." }
-     ]
+    ]
   },
   {
     slug: "Meditations1_T+C",
@@ -889,7 +889,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/3.jpg", caption: "Boldness in colours." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/2.jpg", caption: "Recently, I have been having way too much fun with dividers ;)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/1.jpg", caption: "Starting from the middle." }
-    ]]
+    ]
   },
   {
     slug: "Meditations8_Dad",
