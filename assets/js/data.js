@@ -202,7 +202,7 @@ const ARTWORKS = [
   {
     slug: "BoredSymmetry2_Deity",
     title: "Bored Symmetry 2: Deity",
-    date: "2026-03-01",
+    date: "2026-09-01",
     medium: "Acrylic Pens, Dividers, and Ruler on Paper",
     tags: ["Acrylic", "Pens", "Dividers", "Ruler", "Paper", "in progress"],
     description:
@@ -211,28 +211,26 @@ const ARTWORKS = [
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/thumb.jpg",
     process: [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/1.jpg", caption: "This is me having fun with my dividers (after buying new pencil leads, as well as some orderly coloring.. I do not know where this will go, so this is in progress, and currently a bit dormant until I find new inspiration. Watch this space :)" },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/2.jpg", caption: "Before removing the helper lines from the dividers selectively to create the symmetry without it all being circles." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/2.jpg", caption: "Before removing the helper lines from the dividers selectively to create the symmetry without it all being circles. :)" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry2_Deity/Process/3.jpg", caption: "Most of my pieces progress in uneven episodes, I tend to procrastinate on o ne piece wit the other. THis one got some attention these past weeks." }
     ]
   },
-/*
   {
-    slug: "BoredSymmetry3",
-    title: "Bored Symmetry 3",
-    date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "tag"],
+    slug: "BoredSymmetry3_Open",
+    title: "Bored Symmetry 3: Open",
+    date: "2026-09-02",
+    medium: "Acrylic Pens, Dividers, Spirograph, and Ruler on Paper",
+    tags: ["Acrylic", "Pens", "Dividers", "Ruler", "Spirograph", "Paper", "completed"],
     description:
-      "Describe your piece.",
+      "One more piece filling too much free time, I think this took me 2 days, maximum :D I love the spirograph.",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/1.jpg", caption: "Don't you also just love neon colors? :D." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/BoredSymmetry3/Process/2.jpg", caption: "Sprayed with varnish, this looks gorgeous in this light.." }
     ]
   },
+/*  
   {
     slug: "BoredSymmetry4",
     title: "Bored Symmetry 4",
@@ -962,6 +960,7 @@ const ARTWORKS = [
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/thumb.jpg",
     process: [
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/9.jpg", caption: "This is usually a great little art piece that I continue off and on, whenever my fingers get bored, or I feel inspred to gift small tokens of art affection :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/8.jpg", caption: "In case you want to try too, here are the instructions for these Origami flowers (cheating your way through using glue)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/7.jpg", caption: "When using the right paper, these flowers beautifully satisfy my need for UV-reactive pieces :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Origami/Process/6.jpg", caption: "They have been placed on desks of friends all through the world." },
