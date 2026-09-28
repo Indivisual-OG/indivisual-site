@@ -849,7 +849,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1.jpg", caption: "The pictures that inspired this piece, which originally started aiming to play with the symmetry of my face." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1a.jpg", caption: "More images I like of myself found its way into the piece naturally." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1b.jpg", caption: "Dito." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1c.jpg", caption: "And this one. The last olne I will omit cause it is even more naked than these :D." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1c.jpg", caption: "And this one. The last one I will omit cause it is even more naked than these :D." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/2.jpg", caption: "In progress, but at a very satisfying stage :)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/3.jpg", caption: "Steps towwared expressing who I feel I am." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/4.jpg", caption: "Coming together slowly." },
