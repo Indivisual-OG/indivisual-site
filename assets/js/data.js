@@ -120,7 +120,7 @@ const ARTWORKS = [
     title: "Begin Again",
     date: "2026-08-31",
     medium: "Digital Art, drawn in Infinite Painter on a Samsung Galaxy Tab S8",
-    tags: ["Digital", "Handdrawn", "Samsung Tablet", "in progress"],
+    tags: ["Digital", "Handdrawn", "Samsung Tablet", "incomplete", "in progress"],
     description:
       "The mantra of Let Go and Begin Again artfully focused in this ongoing piece, which is only drawn on trains (so far).",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/q_auto:best/f_auto/BeginAgain/Cover.jpg",
