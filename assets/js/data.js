@@ -835,26 +835,28 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations4_Meg/Process/1.jpg", caption: "This picture shows how much color and structure I added after the ink was dried. Fun." }
     ]
   },
-/*
   {
-    slug: "Meditations5_SZ",
-    title: "Meditations 5: SZ",
-    date: "2026-08-05",
-    medium: "Acrylic Pens and MixedMedia on Canvas",
-    tags: ["Acrylic", "Pens", "MixedMedia", "Canvas", "completed"],
+    slug: "Identity",
+    title: "Identity",
+    date: "2026-09-25",
+    medium: "Acrylic Pens on Paper",
+    tags: ["Acrylic", "Pens", "Paper", "Incomplete", "in progress"],
     description:
-      "Giving gifts to my friends, I let my love and appreciation flow through me as I focused on each of these people who would receive the piece once completed. This one was especially meaningful to me. <3",
-    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Cover.jpg",
-    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/thumb.jpg",
+      "Invited to contemplate my relationship with innate worth, this image is slowly emerging from my emotions and subconscious.. This in progress piece will be updated when it is completed.",
+    cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Cover.jpg",
+    thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/thumb.jpg",
     process: [
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations5_SZ/Process/x.jpg", caption: "xx." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1.jpg", caption: "The pictures that inspired this piece, which originally started aiming to play with the symmetry of my face." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1a.jpg", caption: "More images I like of myself found its way into the piece naturally." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1b.jpg", caption: "Dito." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1c.jpg", caption: "And this one. The last olne I will omit cause it is even more naked than these :D." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/2.jpg", caption: "In progress, but at a very satisfying stage :)." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/3.jpg", caption: "Steps towwared expressing who I feel I am." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/4.jpg", caption: "Coming together slowly." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/5.jpg", caption: "More pictures, and further progres will be updated in time." },      
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/6.jpg", caption: "I copied the initial picture from both sides (normal and mirrored)." }
     ]
   },
-*/
   {
     slug: "Meditations6_H",
     title: "Meditations 6: Hannah",
@@ -887,7 +889,7 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/3.jpg", caption: "Boldness in colours." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/2.jpg", caption: "Recently, I have been having way too much fun with dividers ;)." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Meditations7_L/Process/1.jpg", caption: "Starting from the middle." }
-    ]
+    ]]
   },
   {
     slug: "Meditations8_Dad",
