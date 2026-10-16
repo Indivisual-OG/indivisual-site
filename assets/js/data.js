@@ -521,9 +521,9 @@ const ARTWORKS = [
     title: "Furniture 1 - Vortex",
     date: "2025-01-09",
     medium: "Acrylic Paints on Wood",
-    tags: ["Acrylic", "Paints", "Wood", "completed"],
+    tags: ["Acrylic", "Paints", "Wood", "completed", "available"],
     description:
-      "Painting my wooden couch table on a whim, fully resolved to throw it out if it looks shit..It doesn't, and here we are.",
+      "Painting my wooden couch table on a whim, fully resolved to throw it out if it looks shit..It doesn't, and here we are. I am looking to sell this table, if anyone is interested :)",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furniture1_Vortex/thumb.jpg",
     process: [
@@ -535,7 +535,7 @@ const ARTWORKS = [
     title: "Furniture 2 - Little Blue Cupboard",
     date: "2025-12-02",
     medium: "Acrylic Paints on Wood",
-    tags: ["Acrylic", "Paints", "Wood", "completed"],
+    tags: ["Acrylic", "Paints", "Wood", "completed", "available"],
     description:
       "I found this little blue cupboard among some other furniture to be thrown away by the side of the road, didn't like the blue base, but I thought it was a fun piece to try some more furniture painting on it. It is definitely not blue anymore now :D",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Furtniture2/Cover.jpg",
@@ -836,11 +836,11 @@ const ARTWORKS = [
   {
     slug: "Identity",
     title: "Identity",
-    date: "2026-09-25",
+    date: "2026-10-15",
     medium: "Acrylic Pens on Paper",
-    tags: ["Acrylic", "Pens", "Paper", "Incomplete", "in progress"],
+    tags: ["Acrylic", "Pens", "Paper", "Dividers", "completed"],
     description:
-      "Invited to contemplate my relationship with innate worth, this image is slowly emerging from my emotions and subconscious.. This in progress piece will be updated when it is completed.",
+      "Invited to contemplate my relationship with innate worth, this image slowly emerged from my emotions and subconscious.. It is finally completed, and I quite loike how my different sides and moods and activity levels have been represented. I also think the free space works quite well. I will add a UV picture later :)",
     cover: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Cover.jpg",
     thumb: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/thumb.jpg",
     process: [
@@ -848,11 +848,15 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1a.jpg", caption: "More images I like of myself found its way into the piece naturally." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1b.jpg", caption: "Dito." },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/1c.jpg", caption: "And this one. The last one I will omit cause it is even more naked than these :D." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/2.jpg", caption: "In progress, but at a very satisfying stage :)." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/3.jpg", caption: "Steps towwared expressing who I feel I am." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/2.jpg", caption: "Almost done, and awaiting the last stroke of insight. I tend to leave pieces for a bit before they are done to see how I feel about them after some time." },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/3.jpg", caption: "In progress, but at a very satisfying stage :)" },
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/4.jpg", caption: "Coming together slowly." },
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/5.jpg", caption: "More pictures, and further progres will be updated in time." },      
-      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/6.jpg", caption: "I copied the initial picture from both sides (normal and mirrored)." }
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/5.jpg", caption: "Steps toward expressing who I feel I am." },  
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/6.jpg", caption: "I wasn´t quite sure of the three different expressions.. One was intended to be my inner child, one my rational scientist self, the third my passionate, emotional, embodied self.. How does one clearly define those things in an image? Hard problems :D" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/7.jpg", caption: "I do like the addition of those selfies, examples of which have supported the growth of my confidence and self-awareness." }, 
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/8.jpg", caption: "Going bravely where I haven´t before :D" },
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/9.jpg", caption: "Mapping out the different parts of my idea of self and whatever that concept of identity is.." }, 
+      { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/Identity/Process/10.jpg", caption: "I copied the initial picture from both sides (normal and mirrored)." }
     ]
   },
   {
