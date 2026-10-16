@@ -1,5 +1,12 @@
 # indivisual.art — website
 
+Looking to create my own gallery website, I realized I knew too little about writing code. Claude was very accessible, and allowed me to learn a ton about syntax and vibe coding, without the hurdle of long courses or background learning. I loved working with Claude on this, and now, this website allows me to continue updating it by myself and with the backbone of what was initially created :)
+This woman may not have been taught how to fish just yet, but she sure lost some fear of the muddy waters the fish live in, and the caught bounty keeps being plentiful :D - too far on the metaphor? You´ll be fiiiine... :)
+
+Enjoy.
+
+---
+
 A simple, fast, no-backend-needed portfolio site. Every artwork gets its own
 page with the finished image plus a "process" gallery (sketches, WIP shots,
 etc.), all navigable from a filterable homepage grid.
@@ -42,9 +49,6 @@ indivisual-site/
         └── ... same pattern
 ```
 
-Two example/placeholder artworks ("Cosmic Drift" and "Neon Forest") are
-included so you can see exactly how it fits together. Replace them with your
-own.
 
 ---
 
