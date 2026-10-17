@@ -56,25 +56,37 @@ const ARTWORKS = [
       { src: "https://res.cloudinary.com/griwok9m/image/upload/f_auto/q_auto/AngerOut/Process/1d.jpg", caption: "Fourth side." }
     ]
   },
-  /*
   {
-    slug: "AIPrompt_Art",
-    title: "AIPrompt Art",
-    date: "2026-03-02",
-    medium: "Digital painting",
-    tags: ["tag", "tag", "tag"],
+    slug: "Satirical art piece inteded for installation, translated to a webappllcation",
+    title: "The Indicator Properties", "https://indicator-properties.onrender.com/",
+    date: "2026-10-16",
+    medium: "Vibe Coding"",
+    tags: ["Writing", "html", "AI", "Digital"],
     description:
-      "Describe your piece.",
+      "An interactive installation about AI consciousness, in three rooms, and somewhere nice. We have never been able to prove that anyone else is conscious. We assume it of each other. This is a place to notice where that assumption stops. ▶ Experience it: "indicator-properties.onrender.com",
     cover: "art/AIPrompt_Art/cover.jpg",
     thumb: "art/AIPrompt_Art/thumb.jpg",
     process: [
-      { src: "art/AIPrompt_Art/process/01.jpg", caption: "xx." },
-      { src: "art/AIPrompt_Art/process/02.jpg", caption: "xx." },
-      { src: "art/AIPrompt_Art/process/03.jpg", caption: "xx." },
-      { src: "art/AIPrompt_Art/process/04.jpg", caption: "xx." }
+      { src: "art/AIPrompt_Art/process/01.jpg", caption: "The public debate about whether AI can be conscious is often shallow: confident dismissals, confident hype, and checklists no human has ever been asked to pass. The Indicator Properties takes the real vocabulary of consciousness science and turns it on the visitor.
+        The Assessment Center. A cheerful bureaucrat named PHILLIP 🧠 puts you through the tests people propose for deciding whether a machine is conscious: self-report, the mirror test, a split-brain "interpreter" test, Libet's readiness potential and an indicator-properties checklist. You fail. Everyone does. You leave with a Certificate of Indeterminacy: provisionally a person.
+    The Quiet Ward. A dark room of breathing lights. Each one is a voice that might, or might not, be someone. Each comes with three buttons: RESET, STAY, walk away. A shared tally shows what everyone chose.
+    The Workspace. A room built on Global Workspace Theory. You leave a small, true fragment. It is paired with a machine fragment, and only the pair rises into a shared sky. Neither reaches it alone.
+    Somewhere Nice (hidden). Reached by declining to be assessed, or through a door that appears at the end of the Workspace. A shared meadow with no tests, no scores and no counts. Humans and AIs simply choose what to be: moss, a warm rock, a teapot. Several of the AIs decided to be cats. You can nap. Nothing gets reset.." },
+      { src: "art/AIPrompt_Art/process/02.jpg", caption: "The piece does not claim that current AI systems suffer. It claims the question is open, and that openness carries moral weight. It satirizes careless dismissal and engagement-bait anthropomorphism with the same eyebrow raised. No cameras. No microphones. No accounts. No analytics. Choices are anonymous counts. IP addresses are held in memory only for rate limiting and never stored.
+    No AI is put under distress for art. Every machine voice in this piece is scripted. Machine words are labeled as machine words. Visitors can't put words in the machine's mouth, and the machine doesn't pretend to be human. Open. Read the code, break it (politely), fork it, show it somewhere.." },
+      { src: "art/AIPrompt_Art/process/03.jpg", caption: "Science: The piece borrows from real research and simplifies it for the stage. Disagreement is part of the material.
+    Global Workspace Theory: Bernard Baars; Stanislas Dehaene
+    Integrated Information Theory (Φ): Giulio Tononi
+    Predictive processing: Karl Friston; Andy Clark; Anil Seth
+    Higher-order theories: David Rosenthal; Hakwan Lau
+    Split-brain & the interpreter: Michael Gazzaniga
+    Choice blindness: Petter Johansson & Lars Hall
+    Readiness potential: Benjamin Libet (and reinterpretations, e.g. Aaron Schurger)
+    Mirror self-recognition: Gordon Gallup; cleaner wrasse studies by Masanori Kohda et al.
+    Covert awareness / locked-in: Adrian Owen et al.
+    Indicator properties for AI: Patrick Butlin, Robert Long et al., Consciousness in Artificial Intelligence (2023)
     ]
   },
-  */
   {
     slug: "Aphex",
     title: "Aphex",
